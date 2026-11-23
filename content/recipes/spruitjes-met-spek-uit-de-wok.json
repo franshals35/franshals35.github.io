@@ -1,0 +1,59 @@
+{
+  "t": "Spruitjes met spek uit de wok",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Spruiten",
+      "note": null
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Wortels",
+      "note": null
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Spekreepjes",
+      "note": null
+    },
+    {
+      "amount": 1500,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Olie",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    }
+  ],
+  "s": [
+    "Schil de aardappels, snij ze in kleine blokjes en doe ze in een kom met een beetje water. Maak ze in 15 minuten beetgaar in de magnetron. Bak ze in 18 min in de pan goudbruin.",
+    "Maak de wortel schoon, en snij deze in kleine reepjes. Snipper de spruiten (eventueel in de keukenmachine). Bak de spekjes rustig in de pan met olie en peper en laat het geheel 7 minuten sudderen. Voeg de gesneden wortelen toe en laat het geheel in het vet koken, ongeveer 7 minuten, totdat de wortelen een beetje zacht geworden zijn. Uiteindelijk de reepjes spruit erbij voegen en het geheel nog 7 minuten op het vuur laten staan, steeds omscheppen."
+  ],
+  "n": [
+    "[Extracted image: /home/user/tool-results/ocr/a09b2e3e-0f58-46df-963c-592b1add9a8c/images/001-012-img-11.jpeg]"
+  ],
+  "g": [
+    "vlees"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "t": "Lauwe pasta salade",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Tonijn uit blik",
+      "note": "op water"
+    },
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Eieren",
+      "note": "gekookt"
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Sperziebonen",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Paprika",
+      "note": "rood"
+    },
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Tomaten",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Suiker",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Olie",
+      "note": "olijf"
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Azijn",
+      "note": "wijn"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Rozemarijn",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Mosterd",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Basilicum",
+      "note": null
+    },
+    {
+      "amount": 350,
+      "unit": "g",
+      "name": "Pasta",
+      "note": "fusili"
+    }
+  ],
+  "s": [
+    "Meng de olijfolie, wijnazijn, mosterd, geperste knoflook, suiker en rozemarijn met elkaar en laat dit lekker lang staan (af en toe goed schudden).",
+    "Kook de pasta volgens de gebruiksaanwijzing. Snij de boontje in stukjes en kook ze 7 minuten. Snij de tomaten, paprika en de eieren in stukjes. Laat de tonijn uitlekken. Meng alle bestandsdelen met elkaar in een grote schaal (vergeet het beetje basilicum niet)."
+  ],
+  "n": [],
+  "g": [
+    "vis"
+  ]
+}

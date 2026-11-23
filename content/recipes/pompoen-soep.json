@@ -1,0 +1,86 @@
+{
+  "t": "Pompoen soep",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Pompoen",
+      "note": "1,1 kilo pompoen, 888 g vruchtvlees."
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Venkelknol",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Bouillonblokje",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "Slagroom",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Paprikapoeder",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "l",
+      "name": "Water",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Basilicum",
+      "note": "takje"
+    },
+    {
+      "amount": null,
+      "unit": "st",
+      "name": "Laurierblaadjes",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Gemberpoeder",
+      "note": null
+    }
+  ],
+  "s": [
+    "Hak de pompoen doormidden, verwijder de pitten en het draadjesvruchtvlees",
+    "Snijd de pompoen in blokjes, versnipper de ui",
+    "Breng water aan de kook. Fruit de knoflook met de ui in de soeppan. Voeg de pompoen, 1250 ml kokend water en de groentebouillontabletten toe",
+    "laat de soep 15 min koken, tot de pompoen zacht is.",
+    "Snij de venkel in dunne reepjes en maak deze beetgaar in de magnetron (4 min).",
+    "Voeg de kookroom, de fijngesneden basilicum en de paprikapoeder toe en pureer de soep met de staafmixer, Meng daarna de venkel erdoor.",
+    "Serveer met Parmezaanse kaas en uienstokbrood."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

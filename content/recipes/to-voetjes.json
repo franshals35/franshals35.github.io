@@ -1,0 +1,59 @@
+{
+  "t": "To-voetjes",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 350,
+      "unit": "g",
+      "name": "Tofu",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Spitskool",
+      "note": null
+    },
+    {
+      "amount": 75,
+      "unit": "g",
+      "name": "Cashewnoten",
+      "note": "ongezouten"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Rijst",
+      "note": "zilvervlies"
+    },
+    {
+      "amount": 4,
+      "unit": "el",
+      "name": "Sojasaus",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Olie",
+      "note": null
+    }
+  ],
+  "s": [
+    "Tofu goed uitlekken, op een schone keukenhanddoek droogdrukken.",
+    "Tofu in blokjes snijden en marineren in sweet teriyaki saus: Sweet teriyaki: 4 el soysauce, 1,5 el honing, 2 teen knoflook geperst, 1/2 tl djahe",
+    "(half tot 3 uur)",
+    "Rijst koken.",
+    "Halve cashewnoten in koekenpan 8 min roosteren.",
+    "Spitkool in reepjes snijden.",
+    "Tofu in hete olie in 3 minuten bruin bakken, daarna eruit halen.",
+    "Spitskool in 5 minuten wokken, daarna tofu erbij en beetje doorwarmen.",
+    "Op smaak brengen met peper.",
+    "Serveren met cashewnoten."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

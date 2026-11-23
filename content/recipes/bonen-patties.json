@@ -1,0 +1,69 @@
+{
+  "t": "Bonen patties",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 260,
+      "unit": "g",
+      "name": "Zwarte Bonen",
+      "note": "uitlekgewicht"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": "grote"
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "kg",
+      "name": "Groenten",
+      "note": "naar keuze"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Kerriepoeder",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snij de ui in kwart ringen en fruit. Op het laatst de knoflook en wat kerriepoeder erbij. Prak intussen de uitgelekte en afgespoelde bonen in een grote glazen schaal, en doe hier 2 el bloem en wat zout en peper bij. Meng het bij elkaar en maak er 5 patty's van doe je in bloem wentelt. Bak ze in niet meer dan 10 minuten in olie (teveel wordt te vet).",
+    "Serveren met aardappelen en groente"
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

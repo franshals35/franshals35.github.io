@@ -1,0 +1,87 @@
+{
+  "t": "Witlof uit de Oven",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 600,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Witlof",
+      "note": null
+    },
+    {
+      "amount": 6,
+      "unit": "st",
+      "name": "Achterham",
+      "note": "plakken"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Geraspte Kaas",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "el",
+      "name": "Olie",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "el",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Melk",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Aromat",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snijd de witlof doormidden, en verwijder het hart",
+    "Kook de witlof 12 min., en laat het grondig uitlekken in een zeef",
+    "Bestrooi de ham met de kruidenmelange en wikkel het om en halve witlof stronk",
+    "Leg de stronken in een beboterde ovenschaal",
+    "Maak intussen de kaassaus klaar:",
+    "Verwarm wat boter (of 3 eetlepels olie)",
+    "Voeg 3 eetlepels bloem toe",
+    "Roeren tot het samenklontert",
+    "Melk toevoegen tot een dikke saus ontstaat",
+    "Kaas toevoegen en laten smelten (saus nu niet meer dunner maken!)",
+    "Peper en zout toevoegen",
+    "Schenk de saus over de witlof in de ovenschaal",
+    "Doe de schaal 30 min. op 200°C in de oven",
+    "Serveren met aardappel puree"
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

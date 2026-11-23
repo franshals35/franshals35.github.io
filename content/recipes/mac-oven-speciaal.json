@@ -1,0 +1,68 @@
+{
+  "t": "Mac oven speciaal",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Macaroni",
+      "note": null
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Schouderham",
+      "note": "3 mm dik (vooraf bestellen)"
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Paprika",
+      "note": "groen"
+    },
+    {
+      "amount": 5,
+      "unit": "st",
+      "name": "Tomaten",
+      "note": null
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Geraspte Kaas",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": "witte"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Paneermeel",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Boter",
+      "note": null
+    }
+  ],
+  "s": [
+    "Gebruik de grote pan! Kook de macaroni \"al dente\" met een snufje zout erdoor. Verwarm de oven voor op 200 °C. Snij de plakjes ham fijn, de paprika in dunne reepjes, de tomaten in plakjes en rasp eventueel de kaas. Vet de ovenschaal in. Giet de macaroni af en meng met de ham, de paprika en de helft van de kaas. Doe dat mengel in de ovenschaal. Leg de plakjes tomaat erover, strooi de rest van de kaas erover en dek het af met wat paneermeel. Verwarm in de oven tot de kaas gesmolten is (30 min.). Kaaskorst van Han=> Hendrik"
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

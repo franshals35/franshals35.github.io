@@ -1,0 +1,90 @@
+{
+  "t": "Rode Linzensoep",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 275,
+      "unit": "g",
+      "name": "Linzen",
+      "note": "rode"
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Wortels",
+      "note": "winterpeen"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Bouillonblokje",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Turks Brood",
+      "note": null
+    },
+    {
+      "amount": 6,
+      "unit": "st",
+      "name": "Boterhammen",
+      "note": null
+    },
+    {
+      "amount": 4,
+      "unit": "tl",
+      "name": "Paprikapoeder",
+      "note": null
+    },
+    {
+      "amount": 4,
+      "unit": "tl",
+      "name": "Komijn, gemalen",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": 140,
+      "unit": "g",
+      "name": "Tomaten",
+      "note": "puree"
+    }
+  ],
+  "s": [
+    "Snijd de wortel in plakjes en was de linzen",
+    "Snijd de ui, knoflook en peper fijn",
+    "Fruit de ui en knoflook in een grote soeppan met wat olie",
+    "Gooi hier de gesneden wortel en paprikapoeder bij en bak voor een paar minuutjes",
+    "Vervolgens doe je er 1300 ml water bij, samen met de gewassen linzen en het blokje groentebouillon",
+    "Laat alles voor ongeveer 45 minuten koken",
+    "Hierna neem je een droge pan waarin je het komijnpoeder bakt totdat je het goed gaat ruiken",
+    "Hier voeg je een theelepeltje boter aan toe en als deze is gesmolten de tomatenpuree",
+    "Laat dit geheel even pruttelen",
+    "Zet ondertussen de oven aan op 180 graden en leg het Turks brood hierin voor zo'n 10 minuten (zelf even bijhouden, elke oven is anders).",
+    "Doe de inhoud van het pannetje met de tomatenpuree bij de soep en pureer de soep met een staafmixer."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

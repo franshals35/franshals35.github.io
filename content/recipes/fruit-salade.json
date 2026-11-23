@@ -1,0 +1,45 @@
+{
+  "t": "Fruit salade",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Appels",
+      "note": "elstar"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Blauwe bessen",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Mandarijnen",
+      "note": "uit blik"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Perzik uit blik",
+      "note": "0.4L blik"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Citroen sap",
+      "note": "scheutje"
+    }
+  ],
+  "s": [
+    "Speciaal voor Han geen banaan"
+  ],
+  "n": [],
+  "g": [
+    "salade",
+    "vega"
+  ]
+}

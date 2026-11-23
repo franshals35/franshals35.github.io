@@ -1,0 +1,53 @@
+{
+  "t": "Bloemkoolpotje Mien",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Gehakt, half-om-half",
+      "note": "vegetarisch!"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Prei",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Bloemkool",
+      "note": "kleintje of uit de diepvries"
+    },
+    {
+      "amount": 0.5,
+      "unit": "l",
+      "name": "Champignons soep geconcentreerd",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 600,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": null
+    }
+  ],
+  "s": [
+    "Kook de aardppels en stamp ze tot een pureen met zout/peper en nootmuskaat. Bloemkool in kleine roosjes verdelen. Bak het gehakt rul in de pan. Doe de knoflook erbij. Bloemkool 2-3 minuten meebakken, daarna deksel op de pan en 10 minuten zacht laten stoven met een scheutje water (regelmatig omscheppen). Daarna de prei in halve ringen snijden en extra 5 minuten meestoven. Champignonsaus toevoegen en goed laten doorwarmen.",
+    "Serveren met de aardappel puree."
+  ],
+  "n": [
+    "[Extracted image: /home/user/tool-results/ocr/a09b2e3e-0f58-46df-963c-592b1add9a8c/images/001-002-img-1.jpeg]"
+  ],
+  "g": [
+    "vega"
+  ]
+}

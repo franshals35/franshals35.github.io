@@ -1,0 +1,70 @@
+{
+  "t": "Kip Bianca",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Rijst",
+      "note": null
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Kipfilet",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Prei",
+      "note": "of ui"
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Sperziebonen",
+      "note": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Cashewnoten",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "el",
+      "name": "Ketjap Manis",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Ketoembar",
+      "note": "gemalen koriander"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Olie",
+      "note": "olijf"
+    }
+  ],
+  "s": [
+    "Snijd de kipfilet in repen. Schep ketjap manis en ketoembar erdoor en laat",
+    "ca. 10 minuten marineren.",
+    "Maak de prei schoon, snijd hem in smalle ringetjes, was ze en laat ze",
+    "uitlekken. Haal de sperzieboontjes af en breek ze. Kook de sperzieboontjes",
+    "in weinig kokend water in ca. 10 minuten beetgaar. Giet ze af. Verwarm de",
+    "boter in de hapjespan. Bak hierin de kipfiletreepjes ca. 4 minuten. Voeg de",
+    "prei toe en bak ca. 2 minuten mee. Voeg de sperzieboontjes toe en warm het",
+    "gerecht door. Voeg vlak voor het serveren de cashewnoten toe.",
+    "Serveer dit met witte rijst."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

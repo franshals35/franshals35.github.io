@@ -1,0 +1,57 @@
+{
+  "t": "Kletskoppen",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 45,
+      "unit": "g",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 56,
+      "unit": "g",
+      "name": "Roomboter",
+      "note": "op kamertemperatuur"
+    },
+    {
+      "amount": 140,
+      "unit": "g",
+      "name": "Bruine suiker",
+      "note": "Eigenlijk lichte basterd suiker"
+    },
+    {
+      "amount": 0.25,
+      "unit": "tl",
+      "name": "Kaneel",
+      "note": null
+    },
+    {
+      "amount": 28,
+      "unit": "g",
+      "name": "Amandelen",
+      "note": "reeds gepelde"
+    },
+    {
+      "amount": 0.125,
+      "unit": "tl",
+      "name": "Zout",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snij de amandelen in kleine stukjes.",
+    "Verwarm de oven en de bakplaat voor op 200 graden.",
+    "Verpulver het zout.",
+    "Bloem, en ook de basterdsuiker zeven en mengen met het zout, de kaneel en de amandelen.. De boter in blokjes erbij, en tot een homogeen deeg kneden.",
+    "Hak de amandelen in kleine stukjes en kneed dit ook door het deeg.",
+    "Maak van het deeg kleine balletjes (iets groter dan een hazelnoot, circa 2 cm, circa 13 gram).",
+    "Afzuigkap aanzetten. Leg de ietwat geplette balletjes op een bakpapier op het bakblik met een flinke tussenafstand (maximaal 6 per blik, liever 6). In de oven op 200 graden.",
+    "Na ongeveer 10 minuten zijn ze gaar. Controleer altijd de eerste lading door te proeven (ze mogen niet taai blijken wanneer ze afgekoeld zijn, en niet verbrand proeven).",
+    "Als je ze een beetje plat drukt op de plaat kan de baktijd korter.",
+    "Het levert ongeveer 22 stuks op."
+  ],
+  "n": [],
+  "g": []
+}

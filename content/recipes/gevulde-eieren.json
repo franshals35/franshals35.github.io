@@ -1,0 +1,53 @@
+{
+  "t": "Gevulde Eieren",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 10,
+      "unit": "st",
+      "name": "Eieren",
+      "note": "hardgekookt"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Tonijn uit blik",
+      "note": "op olie"
+    },
+    {
+      "amount": 3,
+      "unit": "el",
+      "name": "Mayonaise",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Cayennepeper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    }
+  ],
+  "s": [
+    "Kook de eieren hard en pel ze.",
+    "Snijd ze middendoor de lengte, en verwijderd het eigeel.",
+    "Prak de dooiers fijn met de tonijn, mayonaise, cayennepeper en zout.",
+    "Vul de halve eieren hiermee."
+  ],
+  "n": [],
+  "g": [
+    "vis"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "t": "Pasta ham/doperwten",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Schouderham",
+      "note": null
+    },
+    {
+      "amount": 750,
+      "unit": "g",
+      "name": "Doperwten",
+      "note": "diepvries"
+    },
+    {
+      "amount": 200,
+      "unit": "ml",
+      "name": "Slagroom",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": 425,
+      "unit": "g",
+      "name": "Pasta",
+      "note": null
+    }
+  ],
+  "s": [
+    "Kook de pasta 8 min. Fruit de ui en voeg de gesneden ham erbij. Daarna de doperwten in de pan laten ontdooien, waarna het ei-slagroom mengsel (kruiden met zout en peper) erbij mag. Goed doorwarmen. Serveren met geraspte kaas."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

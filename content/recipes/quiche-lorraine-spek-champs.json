@@ -1,0 +1,53 @@
+{
+  "t": "Quiche Lorraine spek/champs",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 125,
+      "unit": "g",
+      "name": "Spekreepjes",
+      "note": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Champignons",
+      "note": "grote bak"
+    },
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "Crème Fraîche",
+      "note": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Geraspte Kaas",
+      "note": "Gruyere"
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Melk",
+      "note": null
+    }
+  ],
+  "s": [
+    "Gebruik de kleine vorm. Maak een quiche deeg, en bak deze blind in 20 min op 190 graden (ook in dit boek).",
+    "Bak de spekjes en later de champignons in plakjes erbij. Leg dit mengsel in de schaal op het blind gebakken deeg. Strooi hierover de geraspte gruyère.",
+    "Klop drie eieren, mix hierbij de creme fraiche en de melk. Doe er weinig zout bij (vanwege de spek). Giet dit mengsel regelmatig verdeeld in de schaal.",
+    "Het geheel nogmaals 20 minuten in de oven op 190°C."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

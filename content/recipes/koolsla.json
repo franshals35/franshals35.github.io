@@ -1,0 +1,56 @@
+{
+  "t": "Koolsla",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 0.25,
+      "unit": "st",
+      "name": "Witte kool",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "st",
+      "name": "Appels",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Mayonaise",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Yoghurt",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Citroen sap",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": 40,
+      "unit": "g",
+      "name": "Rozijnen",
+      "note": null
+    }
+  ],
+  "s": [
+    "Kool in heel dunne reepjes snijden, en in vergiet met 1,5L kokend water overgieten. Dan ook de appels in heel dunne reepjes snijden. Mayo, peper en citroensap mixen en als dressing door de salade. Toevoegen met de appel en de rozijnen."
+  ],
+  "n": [],
+  "g": [
+    "salade"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "t": "Welsh cakes",
+  "b": 12,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 115,
+      "unit": "g",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 55,
+      "unit": "g",
+      "name": "Boter",
+      "note": null
+    },
+    {
+      "amount": 40,
+      "unit": "g",
+      "name": "Suiker",
+      "note": "Witte basterd, eigenlijk fijne kristalsuiker"
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Rozijnen",
+      "note": "echt dikke rozijnen, geen krenten"
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Bakpoeder",
+      "note": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "tl",
+      "name": "Kaneel",
+      "note": null
+    },
+    {
+      "amount": 0.125,
+      "unit": "tl",
+      "name": "Nootmuskaat",
+      "note": null
+    },
+    {
+      "amount": 0.125,
+      "unit": "tl",
+      "name": "Kruidnagels",
+      "note": "verpulverd"
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Melk",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": "snuf"
+    },
+    {
+      "amount": 0.5,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    }
+  ],
+  "s": [
+    "Zeef de bloem, bakpoeder, kruiden en zout in een kom. Snij de boter in blokjes erbij, en kneed tot het mengsel op broodkruimels lijkt. Voeg de suiker en rozijnen toe. Kluts het ei en doe de helft daarvan erbij, samen met de melk om een stevig deeg te maken.",
+    "Rol het deeg uit op een bloem bestoven werkblad tot een dikte van ongeveer 6 mm (rozijn dikte). Steek er rondjes van 5 cm uit.",
+    "Vet een pan met dikke bodem in en maak deze medium warm. Bak de cakes 2-3 minuten per kant tot ze goudbruin zijn. Laat afkoelen en besprenkel met fijne kristalsuiker (of poedersuiker).",
+    "Kaal serveren, of met boter.",
+    "2020: 2.5 recept is 30 stuks"
+  ],
+  "n": [
+    "\"Picau ar y Maen\""
+  ],
+  "g": []
+}

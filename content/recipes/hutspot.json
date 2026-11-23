@@ -1,0 +1,71 @@
+{
+  "t": "Hutspot",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 600,
+      "unit": "g",
+      "name": "Wortels",
+      "note": null
+    },
+    {
+      "amount": 1300,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Aangedroogde worst",
+      "note": "en een saucijs"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Boter",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Melk",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Mosterd",
+      "note": null
+    }
+  ],
+  "s": [
+    "Schil de aardappels, snij de wortel in fijne en de ui in grove stukken.",
+    "Kook de aardappels, wortel en ui 20 minuten",
+    "Stamp alles fijn en maak de stamppot verder aan met de specerijen, melk, boter, jus, mosterd ect.",
+    "Serveren met aangedroogde worst (of gewoon fijne worst)."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

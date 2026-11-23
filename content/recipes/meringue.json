@@ -1,0 +1,40 @@
+{
+  "t": "Meringue",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Suiker",
+      "note": "fijne kristal suiker"
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Eieren",
+      "note": "de eiwitten"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Vanillesuiker",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    }
+  ],
+  "s": [
+    "Maak apparatuur en schaap schoon met een klein beetje azijn.",
+    "Klop de eiwitten op tot ze beginnen te schuimen.",
+    "Dan doorkloppen en beetje bij beetje de suiker erbij.",
+    "Net zolang doorkloppen tot je in het schuim geen suiker meer voelt.",
+    "Dan 25 minuten in de oven op 160 graden. Daarna een uur in de oven laten staan.."
+  ],
+  "n": [],
+  "g": []
+}

@@ -1,0 +1,84 @@
+{
+  "t": "Pasta Prei Zalm",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 425,
+      "unit": "g",
+      "name": "Zalm filet",
+      "note": "blik"
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Prei",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "Zure room",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "Melk",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Citroen sap",
+      "note": null
+    },
+    {
+      "amount": 375,
+      "unit": "g",
+      "name": "Pasta",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snij de prei in halve ringen, en smoor dit in een klein beetje olie zachtjes, neem hier echt de tijd voor. Laat de zalm uitlekken.",
+    "Kook de pasta.",
+    "Doe in een kom de bloem, citroensap, zure room en de melk en klop dit samen tot een mengsel. Pers de knoflook bij de prei, en laat dat nog even mee sudderen.",
+    "Voeg het melk mengsel en de tomaat toe en laat dit langzaam opwarmen zodat de bloem gaar wordt. Haal de zalm los met een vork, en laat dit samen met de tomaten mee warmen in het mengsel.",
+    "Breng op smaak met zout en peper (proeven!)."
+  ],
+  "n": [],
+  "g": [
+    "vis"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "t": "Quiche Lorraine zalm/broccoli",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Zalm, gerookt",
+      "note": null
+    },
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Broccoli",
+      "note": null
+    },
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "Crème Fraîche",
+      "note": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Geraspte Kaas",
+      "note": "Gruyere"
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Melk",
+      "note": null
+    }
+  ],
+  "s": [
+    "Maak een quiche deeg, en bak deze blind in 20 min op 190 graden (ook in dit boek).",
+    "Kook de broccoli beetgaar in de magnetron (8 minuten). Snij de vis en leg dit in de schaal op het blind gebakken deeg met de broccoli. Strooi hierover de geraspte gruyère. Klop drie eieren, mix hierbij de creme fraiche en de melk. Doe er tijm, salie, oregano en weinig zout bij (vanwege de vis). Giet dit mengsel regelmatig verdeeld in de schaal.",
+    "Het geheel nogmaals 20 minuten in de oven op 190°C."
+  ],
+  "n": [],
+  "g": [
+    "vis"
+  ]
+}

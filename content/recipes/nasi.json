@@ -1,0 +1,52 @@
+{
+  "t": "Nasi",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Nasi kruidenmix",
+      "note": null
+    },
+    {
+      "amount": 330,
+      "unit": "g",
+      "name": "Rijst",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Groentepakket",
+      "note": "of prei met ui"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Saus",
+      "note": "Sate"
+    },
+    {
+      "amount": 8,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Prei",
+      "note": null
+    }
+  ],
+  "s": [
+    "Eigen kruiden: 1/2tl sambal, 2 tl koriander, 1 tl Dhaje (gember), 1 tl komijn, 1 el Ketjap.",
+    "Voeg ook eens 2 eieren scrambled met zout erbij.",
+    "Kook de rijst, verwarm de sate en wok de groenten met de kruiden zoals op het pakje staat erbij."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

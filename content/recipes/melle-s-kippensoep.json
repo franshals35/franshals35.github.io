@@ -1,0 +1,58 @@
+{
+  "t": "Melle's Kippensoep",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Hele kip",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Kruidenbuideltje",
+      "note": "voor kippensoep"
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Soepgroenten",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Stokbrood",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Kruidenboter",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Bouillonblokje",
+      "note": "kippe-"
+    },
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Vermicelli",
+      "note": "4 handjes"
+    }
+  ],
+  "s": [
+    "Kip in de grote pan, 2,7 L water toevoegen, met kruidenbuideltjes 1,5 uur laten koken. Dan de buideltjes eruit. Kip eruit en het vlees eraf halen (elk botje verwijderen!) Kip stukken fijner snijden en terug in de pan. bouillonblokjes en groente erbij, 5 min koken, vermicelli erbij, weer 5 min koken, klaar! = 2x 1,7 L"
+  ],
+  "n": [
+    "Melle Smedes (vader van Finn)"
+  ],
+  "g": [
+    "vlees"
+  ]
+}

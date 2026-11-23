@@ -1,0 +1,74 @@
+{
+  "t": "BPP met venkelsalade",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Pastinaak",
+      "note": null
+    },
+    {
+      "amount": 250,
+      "unit": "ml",
+      "name": "Slagroom",
+      "note": null
+    },
+    {
+      "amount": 400,
+      "unit": "ml",
+      "name": "Bouillonblokje",
+      "note": "kip"
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Pasta",
+      "note": "spaghetti"
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Citroen sap",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Geraspte Kaas",
+      "note": "parmesaan"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peterselie",
+      "note": "handje"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    }
+  ],
+  "s": [
+    "Maak de venkel salade, kook 400 ml water.",
+    "Schil en snij de pastinaak in korte 1 cm dikke frietjes.",
+    "Fruit de knoflook heel kort, blus met slagroom en kokend water (niet alles).",
+    "Voeg de gehalveerde spaghetti toe en laat 15 min indikken; na 5 min de pastinaak erbij.",
+    "Dan citroensap toevoegen, en eventueel kokend water toevoegen aan het eind als een risotto.",
+    "Op het eind de gehakte peterselie toevoegen.",
+    "Serveren met parmesaanse kaas."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

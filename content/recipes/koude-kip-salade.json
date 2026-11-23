@@ -1,0 +1,47 @@
+{
+  "t": "Koude Kip salade",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Gerookte kipfilet",
+      "note": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Wortels",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "l",
+      "name": "Perzik uit blik",
+      "note": null
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Kerstomaatjes",
+      "note": null
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Pasta",
+      "note": "fusili"
+    }
+  ],
+  "s": [
+    "Snij de wortels in halve schijfjes. Kook de pasta 5 min. Doe de wortels erbij, breng opnieuw aan de kook en kook nog eens 3 min extra.",
+    "Snij de kerstomaatjes half door., de kipfilet en de uitgelekte perziken in stukken. Meng alles samen.",
+    "Maak een dressing van 2 delen olie, 1 deel balsamico azijn, tijm basilicum en een eetlepel perzik sap.",
+    "Eventueel serveren met geroosterde pijnboompitten"
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

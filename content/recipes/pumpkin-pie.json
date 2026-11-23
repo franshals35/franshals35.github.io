@@ -1,0 +1,83 @@
+{
+  "t": "Pumpkin Pie",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Pompoen",
+      "note": "500 gram vruchtvlees"
+    },
+    {
+      "amount": 400,
+      "unit": "ml",
+      "name": "Melk",
+      "note": "zoete, gecondenseerde"
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Kaneel",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Gemberpoeder",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Nootmuskaat",
+      "note": null
+    },
+    {
+      "amount": 110,
+      "unit": "g",
+      "name": "Roomboter",
+      "note": null
+    },
+    {
+      "amount": 170,
+      "unit": "g",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Azijn",
+      "note": null
+    },
+    {
+      "amount": 50,
+      "unit": "ml",
+      "name": "Water",
+      "note": "ijswater"
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Suiker",
+      "note": "fijne of poeder"
+    }
+  ],
+  "s": [
+    "Maak pompoen puree door 20 min te koken, afgieten en pureren.",
+    "Doe de boter, bloem, suiker, azijn en water in de keukenmachine en mix met het mes tot er heel kleine klontjes overblijven. Er moeten stukjes boter in blijven om de korst luchtig te maken.",
+    "Druk het deeg in elkaar in een folie en laat het in de koelkast rusten.",
+    "Doe het deeg dan in een pie vorm, en maak een golfjes patroon aan de rand.",
+    "Meng de pompoen puree met de melk, specerijen en eieren, en mix dit glad. Giet het in het korstdeeg.",
+    "Doe in de voorverwarmde over 15 min op 220 graden, en vervolgens 35 min op 180 graden afbakken"
+  ],
+  "n": [],
+  "g": []
+}

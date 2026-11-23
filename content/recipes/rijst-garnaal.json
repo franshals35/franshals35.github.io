@@ -1,0 +1,64 @@
+{
+  "t": "Rijst garnaal",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Garnalen",
+      "note": "Wok garnalen"
+    },
+    {
+      "amount": 230,
+      "unit": "g",
+      "name": "Rijst",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Prei",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Paprika",
+      "note": "groen"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": "rood als het kan"
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Sojasaus",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Sweet Chili sauce",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Honing",
+      "note": null
+    }
+  ],
+  "s": [
+    "Kook de rijst. Snij de paprika in stukken. Garnalen zijn al ondooid, anders onder koud water. Bak de garnalen in 3-4 min in de wok. Voeg de groenten toe en wok door. Doorroeren met rijst.",
+    "Op smaak brengen met scheutje soja, honing en chili saus.",
+    "Rijst droger maken door uit te laten stomen voordat deze in de pan gaat."
+  ],
+  "n": [],
+  "g": [
+    "vis"
+  ]
+}

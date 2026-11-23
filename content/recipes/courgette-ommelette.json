@@ -1,0 +1,69 @@
+{
+  "t": "Courgette ommelette",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": "grote"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Spekjes, gerookt",
+      "note": "slager"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Courgette",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Paprika",
+      "note": "groen"
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": "uitgelekt"
+    },
+    {
+      "amount": 5,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 6,
+      "unit": "st",
+      "name": "Boterhammen",
+      "note": "geroosterd"
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Olie",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snipper ui en paprika. Snij courgette in blokjes. Bak de spekjes en fruit de ui, daarna de paprika en courgette. Laat tomaten uitlekken en snij in stukken. Voeg dan de tomaten erbij en laat even 4 min sudderen. Klop de eieren los met wat peper, giet dit in de pan bak onder af en te roeren om tot het gestold is.",
+    "Lekker met toast!"
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

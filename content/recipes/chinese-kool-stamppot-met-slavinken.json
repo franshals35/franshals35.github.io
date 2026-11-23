@@ -1,0 +1,57 @@
+{
+  "t": "Chinese kool stamppot met slavinken",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Chinese kool",
+      "note": null
+    },
+    {
+      "amount": 1000,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": "voor puree"
+    },
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Slavinken",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Paprikapoeder",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Nootmuskaat",
+      "note": null
+    }
+  ],
+  "s": [
+    "Wrijf de slavinken in met paprikapoeder. Bak de vinken in 20 minuten langzaam gaar. Was de Chinese kool en snij in reepjes.",
+    "Maak intussen aardappelpuree volgens de gebruiksaanwijzing, Schep de kool, en de rest van de boter erdoor en warm de stamppot goed door. Breng op smaak met zout, peper en een snufjes nootmuskaat. Schep de stamppot op 2 borden en leg de slavinken erop. Geef de jus erbij."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

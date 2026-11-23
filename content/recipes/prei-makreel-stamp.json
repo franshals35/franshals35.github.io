@@ -1,0 +1,63 @@
+{
+  "t": "Prei makreel stamp",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1200,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": 2.5,
+      "unit": "st",
+      "name": "Prei",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Makreel",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Mosterd",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Nootmuskaat",
+      "note": null
+    }
+  ],
+  "s": [
+    "Kook de aardappelen in 20 minuten gaar. Snijd en bak de prei samen met knoflook zachtjes in de wok. Maak de makreel schoon en snij in stukken, voeg bij de prei om op te warmen met zout, peper en nootmuskaat. Stamp de aardappelen tot een puree en schep de prei met makreel erdoor.",
+    "Serveer met mosterd"
+  ],
+  "n": [],
+  "g": [
+    "vis"
+  ]
+}

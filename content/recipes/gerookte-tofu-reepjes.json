@@ -1,0 +1,43 @@
+{
+  "t": "Gerookte tofu reepjes",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Tofu",
+      "note": "gerookte"
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Sojasaus",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Honing",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    }
+  ],
+  "s": [
+    "Gerookte tofu: Snijd tofu in kleine blokjes, marinadeer 2 el sojasaus.",
+    "Bak/frituur in een laag olie totdat ze chewie zijn.",
+    "Op het eind de olie afgieten, en met honing carameliseren.",
+    "Op het laatst bestrooien met een beetje zout."
+  ],
+  "n": [
+    "Als alternatief voor spekjes"
+  ],
+  "g": [
+    "vega"
+  ]
+}

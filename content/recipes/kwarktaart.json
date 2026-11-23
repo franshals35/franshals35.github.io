@@ -1,0 +1,71 @@
+{
+  "t": "Kwarktaart",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 6,
+      "unit": "st",
+      "name": "Gelatine",
+      "note": "blaadjes"
+    },
+    {
+      "amount": 450,
+      "unit": "g",
+      "name": "Kwark",
+      "note": "magere"
+    },
+    {
+      "amount": 125,
+      "unit": "g",
+      "name": "Suiker",
+      "note": "witte basterd"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Citroen",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Mandarijnen",
+      "note": "zo'n klein blikje"
+    },
+    {
+      "amount": 0.25,
+      "unit": "l",
+      "name": "Slagroom",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Vanillesuiker",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Lange vingers",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Frambozen",
+      "note": "als je roze kwark wil, en dan zonder mandarijnen"
+    }
+  ],
+  "s": [
+    "De 26 cm springvorm invetten en bestrooien met paneermeel. Dan de lange vingers met de suiker naar onderen op de bodem leggen. Klop de kwark met de suiker, citroenraps (van een hele citroen), de vanille suiker en citroensap van een halve citroen.",
+    "Mandarijnen uit laten lekken, het sap verwarmen en de gelatine hierin oplossen. Of:",
+    "Vermaal 1.5 doosje frambozen, verwarm in een pannetje en los hier de gelatine in op.",
+    "Het gelatine/vruchtensapmengsel door de kwark mengen.",
+    "In een andere kom de slagroom stijf kloppen. Dit door het kwarkmengsel mengen. Giet dit voorzichtig in de taartvorm (voorkom dat de lange vingers gaan drijven).",
+    "Als de taart in de koelkast stijf is geworden (2-4 uur) kunnen de resterende vruchten erover worden verdeeld."
+  ],
+  "n": [],
+  "g": []
+}

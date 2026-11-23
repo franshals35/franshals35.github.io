@@ -1,0 +1,69 @@
+{
+  "t": "Zoet-zure rijst met ananas",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Paprika",
+      "note": "stoplicht"
+    },
+    {
+      "amount": 0.5,
+      "unit": "l",
+      "name": "Ananas",
+      "note": "dubbel blik"
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Ananas",
+      "note": "vocht"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Azijn",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Ketjap Manis",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Suiker",
+      "note": "Bruine basterd"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Rijst",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Maïzena",
+      "note": null
+    }
+  ],
+  "s": [
+    "Kook de rijst volgens gebruiksaanwijzing. De ui snipperen.",
+    "Laat de ananas uitlekken en meng het vocht de azijn, de ketjap, de bruine suiker, de maizena en een mespuntje zout. Fruit de ui en paprika. Dan het zoetzure mengsel erbij doen en op hoog vuur en 2 minuten laten droogkomen. Vervolgens de ananasstukjes toevoegen en alles laten doorwarmen."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

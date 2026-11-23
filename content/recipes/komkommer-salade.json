@@ -1,0 +1,43 @@
+{
+  "t": "Komkommer salade",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Komkommer",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Olie",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Azijn",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    }
+  ],
+  "s": [
+    "Komkommer schillen en in plakjes snijden.",
+    "Bestrooi met zout en laat 30 minuten uitlekken.",
+    "Spoel ze af, doe in een kom.",
+    "Voeg 1.5 el azijn en 1.5 el olie toe, met wat witte peper.",
+    "Laat tot een dag in de koelkast staan."
+  ],
+  "n": [],
+  "g": [
+    "vega",
+    "salade"
+  ]
+}

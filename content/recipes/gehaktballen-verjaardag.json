@@ -1,0 +1,76 @@
+{
+  "t": "Gehaktballen verjaardag",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Gehakt, half-om-half",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Boterhammen",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Kerriepoeder",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Paprikapoeder",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Nootmuskaat",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Ketjap Manis",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Bloem",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snij het bevroren brood in kleine stukjes.Week dit met 2 el water en 2 el ketjap manis. Prak dit fijn met het ei en klop op met de kruiden. Kneed het gehakt hierbij en maak daar kleine balletjes van. Wentel deze door bloem.",
+    "Braad de ballen op hoog vuur in circa 3 minuten rondom bruin (voortdurend keren).",
+    "Laat de ballen dan 10 minuten nagaren op laag vuur."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

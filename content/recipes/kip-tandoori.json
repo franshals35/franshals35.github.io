@@ -1,0 +1,89 @@
+{
+  "t": "Kip Tandoori",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Rijst",
+      "note": null
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Kipfilet",
+      "note": null
+    },
+    {
+      "amount": 4,
+      "unit": "tl",
+      "name": "Tandoori kruiden",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Paprika",
+      "note": "rood"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Champignons",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": "groot"
+    },
+    {
+      "amount": 10,
+      "unit": "st",
+      "name": "Papadums",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "Crème Fraîche",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Sojasaus",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Olie",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snij de kipfilet in stukjes, en doe deze in een marinade met de tandoori kruiden, stukjes tomaat (eerst uitlekken), gesnipperde ui, olie, sojasaus en knoflook. Hoe langer je dit in de marinade laat staan, hoe lekkerder het wordt.",
+    "Maak de rijst klaar.",
+    "Maak de champignons schoon en snij deze net als de paprika in stukken. Bak de champignons en paprika echt goed aan. Bak dan de gemarineerde kip daarbij bruin. Op het eind de creme fraiche erbij, laat nog 5 minuten pruttelen.",
+    "Serveren met rijst en papadums."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

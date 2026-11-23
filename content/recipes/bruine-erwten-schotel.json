@@ -1,0 +1,74 @@
+{
+  "t": "Bruine erwten schotel",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 350,
+      "unit": "g",
+      "name": "Kapucijners",
+      "note": "uit blik"
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": "in blokjes"
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Portabello",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Halloumi",
+      "note": "of Paneer"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Peterselie",
+      "note": "bosje"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "st",
+      "name": "Bouillonblokje",
+      "note": null
+    },
+    {
+      "amount": 8,
+      "unit": "st",
+      "name": "Augurk",
+      "note": null
+    }
+  ],
+  "s": [
+    "Aardappels schillen, in kleine blokken garen 8 minuten in de magnetron",
+    "Halloumi in kleine blokjes snijden en zachtjes bakken in een droge koekenpan. Met de hand keren wanneer goudbruin.",
+    "Ui snipperen, fruiten en knoflook, portbellos in grove stukken erbij.",
+    "Half bouillon blokje met 125 ml heet water toevoegen.",
+    "Kapucijners afspoelen, toevoegen met grof gehakte peterselie en doorwarmen.",
+    "Op het laatste de gebakken haloumi erbij.",
+    "Serveren met augurken."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

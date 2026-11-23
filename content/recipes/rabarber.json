@@ -1,0 +1,32 @@
+{
+  "t": "Rabarber",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 2,
+      "unit": "kg",
+      "name": "Rabarber",
+      "note": null
+    },
+    {
+      "amount": 133,
+      "unit": "g",
+      "name": "Suiker",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Maïzena",
+      "note": null
+    }
+  ],
+  "s": [
+    "Rabarber schoonmaken en in stukken van 3 cm snijden. In een pan de ingrediënten koken tot de rabarber helemaal gaar is (20 min). Koud laten worden in de koelkast, eventueel bewaren in de vriezer. 2025: 680g, 9x 3 el."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

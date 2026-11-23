@@ -1,0 +1,75 @@
+{
+  "t": "Risotto venkel",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Venkelknol",
+      "note": "grote"
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Worst",
+      "note": "verse, fijne"
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Risotto rijst",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "l",
+      "name": "Water",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Citroen sap",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Geraspte Kaas",
+      "note": "Parmezaan"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "st",
+      "name": "Bouillonblokje",
+      "note": "kip"
+    },
+    {
+      "amount": 0.25,
+      "unit": "l",
+      "name": "Witte wijn",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snij venkel in kleine blokjes. Snipper de ui. Maak bouillon.",
+    "Snij worst vel open, en bak het vlees hard aan goed in olie (moet zelfs een beetje knapperig worden). Venkel met ui 2-3 min goed meebakken. Risotto mee glazig maken, wijn en citroensap erbij, bouillon lepel voor lepel erbij (duurt 20 min). Daarna op smaak maken met peper en citroensap. Serveren met Parmezaanse kaas."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

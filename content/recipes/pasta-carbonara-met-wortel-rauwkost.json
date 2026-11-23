@@ -1,0 +1,95 @@
+{
+  "t": "Pasta Carbonara met wortel rauwkost",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Spekreepjes",
+      "note": "eigenlijk panchetta"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Geraspte Kaas",
+      "note": "parmesan"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Geraspte Kaas",
+      "note": "gewoon"
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 8,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Wortels",
+      "note": null
+    },
+    {
+      "amount": 75,
+      "unit": "g",
+      "name": "Rozijnen",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "dl",
+      "note": "Appelsap"
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Citroen sap",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Ketoembar",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": 600,
+      "unit": "g",
+      "name": "Pasta",
+      "note": "penne"
+    }
+  ],
+  "s": [
+    "Wortelsalade; ook in dit receptenboek",
+    "Spekjes uitbakken, met aan het eind de knoflook erdoor. Pasta koken (zonder olijfolie!), afgieten (beetje bewaren: hoeveelheid als een klein beetje jus), 1 minuut afkoelen, opgeklopt eieren erbij en 1,5 min. laten garen in de pasta. Dan uitgebakken spekjes erbij, beetje kookvocht en de kaas erin laten smelten. op bord doen en met peper eroverheen."
+  ],
+  "n": [
+    "[Extracted image: /home/user/tool-results/ocr/a09b2e3e-0f58-46df-963c-592b1add9a8c/images/001-009-img-8.jpeg]"
+  ],
+  "g": [
+    "vlees"
+  ]
+}

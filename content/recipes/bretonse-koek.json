@@ -1,0 +1,55 @@
+{
+  "t": "Bretonse koek",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 80,
+      "unit": "g",
+      "name": "Roomboter",
+      "note": null
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Suiker",
+      "note": "witte basterd"
+    },
+    {
+      "amount": 0.5,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 130,
+      "unit": "g",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Bakpoeder",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Vanillesuiker",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Citroen sap",
+      "note": null
+    }
+  ],
+  "s": [
+    "Meng de boter, bloem, suiker, bakpoeder, vanillesuiker en het ei tot een homogeen deeg. Steek hier desgewenst figuren uit.",
+    "Verwarm de oven voor op 160 graden. Bak in 20 minuten goudbruin."
+  ],
+  "n": [],
+  "g": []
+}

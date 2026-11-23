@@ -1,0 +1,48 @@
+{
+  "t": "Speculaasjes",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Zelfrijzend bakmeel",
+      "note": "50/50 met gewoon meel"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Roomboter",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 113,
+      "unit": "g",
+      "name": "Bruine suiker",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "tl",
+      "name": "Speculaaskruiden",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": "snuf niet vergeten!"
+    }
+  ],
+  "s": [
+    "Maak een deeg van de ingredienten en koel het in de koelkast. Vet de speculaas plank in en bestrooi met bloem. Druk een gedeelte van het deeg in 1 vorm en snij het te vele met een mes eraf. Probeer nu het speculaasje er voorzichtig af te krijgen en op een bakplaat te leggen. Afbakken op 180 graden in 15 minuten."
+  ],
+  "n": [],
+  "g": []
+}

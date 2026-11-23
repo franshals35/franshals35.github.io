@@ -1,0 +1,78 @@
+{
+  "t": "Courgette spaghetti",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Courgette",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Olie",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Basilicum",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Oregano",
+      "note": null
+    },
+    {
+      "amount": 350,
+      "unit": "g",
+      "name": "Pasta",
+      "note": "spaghetti"
+    },
+    {
+      "amount": 0.5,
+      "unit": "st",
+      "name": "Bouillonblokje",
+      "note": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Mozzerela",
+      "note": "mini bolletjes"
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Miso",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snij de courgette in blokjes, en snij de knoflook fijn. Bak ze samen 2 min in olie. Dan tomaten met sap toevoegen en in stukjes knijpen. Voeg 1/2 bouillon blokje en 1/8 tl ve-tsin toe. Laat in 15 min indikken",
+    "Voeg basilicum en oregano naar smaak toe.",
+    "Kook de spaghetti zoals staat aangegeven op het pak.",
+    "Op het laatste de gehalveerde mozzarella bolletjes toevoegen en mengen met de pasta.",
+    "Serveren met geraspte kaas."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

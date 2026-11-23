@@ -1,0 +1,59 @@
+{
+  "t": "Rijst Xuezhen",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 6,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": "gepelde"
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": "groot"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Rijst",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Lenteui",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Miso",
+      "note": null
+    }
+  ],
+  "s": [
+    "Kook de rijst.",
+    "Fruit de ui, op het laatst met de knoflook. Daarna de tomaten erbij, de miso en 20 min laten sudderen.",
+    "Klop de eieren (eventueel met wat zout en peper) en laat langzaam stollen in een andere pan, pas laat doorroeren zodat je grotere stukken ei krijgt, maak af met een scheut sojasaus.",
+    "Op het laatst de ei, de in ringen gesneden lenteui en de tomatensaus samenvoegen."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

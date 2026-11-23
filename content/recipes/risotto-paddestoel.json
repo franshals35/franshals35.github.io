@@ -1,0 +1,54 @@
+{
+  "t": "Risotto paddestoel",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Champignons",
+      "note": "ook gekke soorten"
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Risotto rijst",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Bouillonblokje",
+      "note": "voor 1 L bouillon"
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Pijnboompitten",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Geraspte Kaas",
+      "note": "Parmezaanse"
+    }
+  ],
+  "s": [
+    "Fruit kort de knoflook, en voeg de rijst toe tot ze glazig ziet.",
+    "Maak voeg in 20 minuten de bouillon toe.",
+    "In een andere pan de pijnboompitten goudbakken.",
+    "In nog een andere pan de gesneden paddestoelen 15 min goed aanbraden.",
+    "Serveren met parmezaanse kaas."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "t": "Cheesecake",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Monchou",
+      "note": null
+    },
+    {
+      "amount": 170,
+      "unit": "g",
+      "name": "Yoghurt",
+      "note": "Griekse!"
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Vanillesuiker",
+      "note": "niet suiker maar aroma"
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "el",
+      "name": "Maïzena",
+      "note": null
+    },
+    {
+      "amount": 5,
+      "unit": "el",
+      "name": "Stroop",
+      "note": "Ahorn siroop"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Frambozen",
+      "note": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Havermout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Kaneel",
+      "note": null
+    },
+    {
+      "amount": 70,
+      "unit": "g",
+      "name": "Boter",
+      "note": "blueband"
+    },
+    {
+      "amount": 5,
+      "unit": "st",
+      "name": "Dadels",
+      "note": "of gedroogde abrikozen"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Citroen",
+      "note": null
+    }
+  ],
+  "s": [
+    "Voor een 18 cm bakvorm.",
+    "Doe de gesmolten boter bij de haver. Snij de dadels heel fijn en voeg toe, goed mengen, in de taartvorm (bodem papiertje) Druk aan en zet zolang in de koelkast.",
+    "Verwarm de oven op 140 graden hetelucht.",
+    "Mix de monchou met de Griekse yoghurt, vanille, rasp van de citroen schil en ahornsiroop door elkaar met een mixer. Voeg een voor een de eieren toe en mix deze er doorheen. Voeg op het laatst nog de maïzena toe en mix even mee.",
+    "Giet het mengsel over de bodem. Bewaar een paar mooie frambozen en pureer de rest. Schep een beetje van de frambozensaus in hoopjes over de cheesecake en trek met een prikker of mes strepen hierdoor. Bak de cheesecake in ongeveer 60 tot 70 minuten gaar. Laat hem afkoelen. Verdeel de rest van de frambozensaus over de gezonde cheesecake samen met de hele framboosjes.",
+    "Laat afkoelen in de koelkast voordat je hem serveert."
+  ],
+  "n": [],
+  "g": []
+}

@@ -1,0 +1,59 @@
+{
+  "t": "Boerenkool",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 725,
+      "unit": "g",
+      "name": "Boerenkool",
+      "note": "500 gesneden, 225 diepvries"
+    },
+    {
+      "amount": 1500,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Rookworst",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Nootmuskaat",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Boter",
+      "note": null
+    }
+  ],
+  "s": [
+    "Schil de aardappels, snij de boerenkool in kleine stukken",
+    "Kook de aardappels en de boerenkool 20 minuten",
+    "Stamp alles fijn en maak de stamppot verder aan met de specerijen, melk, boter, jus, mosterd ect.",
+    "Serveren met rookworst."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

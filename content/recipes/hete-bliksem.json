@@ -1,0 +1,75 @@
+{
+  "t": "Hete bliksem",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 600,
+      "unit": "g",
+      "name": "Appels",
+      "note": "Zoet (elstar)"
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Appels",
+      "note": "Zuur (Goudrenet)"
+    },
+    {
+      "amount": 1.1,
+      "unit": "kg",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Rookspek",
+      "note": "2 plak ontbijtspek van 1 cm (vooraf bestellen)"
+    },
+    {
+      "amount": 0.25,
+      "unit": "tl",
+      "name": "Kruidnagels",
+      "note": "gemalen"
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Kaneel",
+      "note": "mespuntje"
+    },
+    {
+      "amount": 0.25,
+      "unit": "tl",
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Boter",
+      "note": "of oude jus"
+    }
+  ],
+  "s": [
+    "Voor Annemieke appart aardappels en bonen.",
+    "Schil de appels, verwijder het klokhuis en snijd ze in 4 stukken.",
+    "Doe de aardappelen in een grote pan en voeg zoveel water toe dat ze net onderstaan.",
+    "Aardappels 20 min koken, na 10 min appels en spek erbij.",
+    "Giet het kookvocht van het aardappelgerecht af, neem het spek uit de pan en snijd het in blokjes.",
+    "Meng de kruidnagel, zout en kaneel erdoor.",
+    "Stamp de aardappelen en appels door elkaar en maak er met de kruiden en de boter (jus) een smeuïge stamppot van (met zout en peper)",
+    "Schep het spek erdoor en serveer de hete bliksem direct."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

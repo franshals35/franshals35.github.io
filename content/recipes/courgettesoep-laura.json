@@ -1,0 +1,56 @@
+{
+  "t": "Courgettesoep Laura",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Courgette",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "ml",
+      "name": "Slagroom",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Bouillonblokje",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 1.2,
+      "unit": "l",
+      "name": "Water",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Olie",
+      "note": null
+    }
+  ],
+  "s": [
+    "Fruit de ui en knoflook in de soeppan. Bak je courgette blokjes 5 min mee.Voeg water en bouillonblokjes toe en laat 20 min zachtjes pruttelen. Pureer de soep met een staafmixer en roer de slagroom erdoor."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

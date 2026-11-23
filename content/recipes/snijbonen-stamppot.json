@@ -1,0 +1,45 @@
+{
+  "t": "Snijbonen stamppot",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1400,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Snijbonen",
+      "note": null
+    },
+    {
+      "amount": 75,
+      "unit": "g",
+      "name": "Cashewnoten",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Witte bonen",
+      "note": "uit blik Cannellini"
+    }
+  ],
+  "s": [
+    "Schil de aardappels, en kook ze 20 minuten.",
+    "Snij de punten van de snijbonen (controleer op draden), en snij ze fijn (eventueel met keuken machine).",
+    "Blancheer de snijbonen tot ze beetgaar zijn (heel fijn gesneden 3 min tot minder fijn gesneden 8 minuten) (of 6 min met wat water in de magnetron).",
+    "Doe de cashewnoten 8 minuten op 180 graden, of rooster ze in een droge koekenpan.",
+    "Spoel de witte bonen af onder de kraan.",
+    "Pureer de aardappels, voeg zout, peper en nootmuskaat toe en genoeg warme melk om het smeuig te maken. Schep de snijbonen en witte bonen er doorheen. Serveer de cashewnoten er apart bij."
+  ],
+  "n": [
+    "Blote billen in het gras"
+  ],
+  "g": [
+    "vega"
+  ]
+}

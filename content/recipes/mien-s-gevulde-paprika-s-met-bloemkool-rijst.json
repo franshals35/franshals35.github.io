@@ -1,0 +1,62 @@
+{
+  "t": "Mien's gevulde paprika's met bloemkool rijst",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Gehakt, half-om-half",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Paprika",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Tomaten",
+      "note": null
+    },
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Bloemkool",
+      "note": "voor bloemkool rijst"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Kerriepoeder",
+      "note": null
+    }
+  ],
+  "s": [
+    "Breng water aan de kook in een pannetje. Halveer de paprika's, verwijder de zaadlijsten en blancheert ze 60 seconden in het kokende water. Laat ze daarna uitlekken. Rul het enigszins gekruide gehakt, vul de paprika's daarmee en leg ze in de ovenschaal. Fruit de halve uien ringen in olie en kerrie. Tomaten in 8 stukken snijden, bestrooien met zout en witte peper en op de paprika's draperen. Daar bovenop de uien. Zet de schaal 30 minuten in de voorverwarmde oven bij 200°C. Bloemkool tot rijst hakselen en in brede pan in 10 min zacht bakkeb: voortdurend omscheppen."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

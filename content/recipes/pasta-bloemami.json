@@ -1,0 +1,58 @@
+{
+  "t": "Pasta Bloemami",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "kg",
+      "name": "Bloemkool",
+      "note": null
+    },
+    {
+      "amount": 430,
+      "unit": "g",
+      "name": "Pasta",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Miso",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Bieslook",
+      "note": "bosje"
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Pijnboompitten",
+      "note": "of zonnebloempitten"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Geraspte Kaas",
+      "note": "parmezaan"
+    }
+  ],
+  "s": [
+    "Verwarm de oven (hetelucht) op 180 graden. Snijd de bloemkool in hapklare roosjes. Doe ze in een ovenschaal en hussel door wat zonnebloemolie. Rooster zo'n 30 minuten in de oven, tot de roosjes gaar zijn en bruine randjes hebben. Bak de pitten goudbruin.",
+    "Zet de pasta op en kook volgens de verpakking gaar. Bak, terwijl de pasta kookt, de knoflook in olie glazig in een koekenpan. Zet het vuur laag en voeg de miso en ongeveer 150 ml pastawater toe en roer door elkaar tot een gladde saus. Breng op smaak met peper.",
+    "Meng de groente, pasta, gsneden bieslook en misosaus door elkaar. Schep op borden. Garneer met Parmezaanse kaas."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

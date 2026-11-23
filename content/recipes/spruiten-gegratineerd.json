@@ -1,0 +1,63 @@
+{
+  "t": "Spruiten gegratineerd",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Spruiten",
+      "note": "de kleintjes"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Geraspte Kaas",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Paneermeel",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Olie",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Kerriepoeder",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Knoflook",
+      "note": "poeder"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    }
+  ],
+  "s": [
+    "Warm oven voor op 200 graden.",
+    "Spruitjes kontje eraf en halveren, in een kom mengen met de olie, kerrie en knoflook poeder. Zout en peper naar smaak.Spruiten op bakplaat met bakpapier gratineren in 20 minuten. Uit de oven in een ovenschaal. Bedekken met kaas paneermeel mengsel, en nog 4 minuten in de oven op 200 graden gratineren. (Dit kan ook later en dan spruitjes uit oven afdekken om uitdroging te voorkomen)."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "t": "Pannenkoeken",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 600,
+      "unit": "g",
+      "name": "Pannenkoekenmix",
+      "note": "meergranen"
+    },
+    {
+      "amount": 450,
+      "unit": "g",
+      "name": "Spinazie",
+      "note": "diepvries, niet uitlekken"
+    },
+    {
+      "amount": 14,
+      "unit": "st",
+      "name": "Ontbijtspek",
+      "note": "14 plakken"
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 1100,
+      "unit": "ml",
+      "name": "Melk",
+      "note": "800+300"
+    },
+    {
+      "amount": 550,
+      "unit": "ml",
+      "name": "Water",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Olie",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    }
+  ],
+  "s": [
+    "Zet schoteltjes op afzuigkap, ontdooi de spinazie (5 min magnetron).Voeg de helft van het water/melk bij de pannenkoek mix en de bloem, goed mixen. Voeg de 3 eieren, olie en zout toe => mixen. Doormixen en rest van het melk/water toevoegen. Als laatste de spinazie er bij mixen. Laat het een uur staan."
+  ],
+  "n": [
+    "Groene pannekoeken, ongeveer 21 stuks (5 over)"
+  ],
+  "g": [
+    "vlees"
+  ]
+}

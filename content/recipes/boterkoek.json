@@ -1,0 +1,59 @@
+{
+  "t": "Boterkoek",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 385,
+      "unit": "g",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 315,
+      "unit": "g",
+      "name": "Roomboter",
+      "note": null
+    },
+    {
+      "amount": 260,
+      "unit": "g",
+      "name": "Suiker",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Vanillesuiker",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "tl",
+      "name": "Citroen sap",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Melk",
+      "note": null
+    }
+  ],
+  "s": [
+    "Oven voorverwarmen op 200 graden.",
+    "Koude boter in kleine blokjes snijden. Boter, bloem, suiker, zakje vanillesuiker en citroensap toevoegen. Met de hand alles door elkaar kneden tot het een homogene deegbal wordt (dat duurt even).",
+    "Druk de deeg glad in de boterkoekvorm. Maak een ruitpatroon met een vork, en bestrijk de bovenkant met een heel klein beetje melk.",
+    "De oven nu op 190 graden zetten, en de koek 35 minuten in de oven houden.",
+    "Uit de oven de koek met een vlakke plaat nadrukken om de lucht eruit te halen. Eventueel grote luchtholtes doorprikken met een sate prikker.",
+    "Goed laten afkoelen voor je het uit de vorm haalt.",
+    "Bij een kleinere vorm (15 cm in plaats van 23 cm) is de verhouding als volgt:",
+    "165 g bloem",
+    "110 g suiker",
+    "135 g boter",
+    "1/2 vanille suiker",
+    "1 tl citroensap"
+  ],
+  "n": [],
+  "g": []
+}

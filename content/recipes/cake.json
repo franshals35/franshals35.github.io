@@ -1,0 +1,52 @@
+{
+  "t": "Cake",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 175,
+      "unit": "g",
+      "name": "Boter",
+      "note": "BlueBand"
+    },
+    {
+      "amount": 175,
+      "unit": "g",
+      "name": "Zelfrijzend bakmeel",
+      "note": null
+    },
+    {
+      "amount": 175,
+      "unit": "g",
+      "name": "Suiker",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Rozijnen",
+      "note": null
+    }
+  ],
+  "s": [
+    "Klop de suiker, warme boter en het zout op. Voeg de eieren toe en klop door tot het een luchtige massa is. Spatel dan het gezeefde meel erdoor. Voeg als laatste de krenten toe.",
+    "Vet het cakeblik (25 cm) in, leg over de breedte een bakpapier er in en bestuif de overgebleven wanden met bloem.",
+    "Verdeel het beslag in het blik en bak het in de oven op 180 graden in 80 minuten af.",
+    "In plaats van de rozijnen kun je ook gember, 140 g noten of kaneel-appelschijfjes gebruiken.",
+    "Voor een blik van 36 cm is het 260 g boter, meel en suiker, 5 eieren en 150 g rozijnen."
+  ],
+  "n": [],
+  "g": []
+}

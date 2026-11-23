@@ -1,0 +1,76 @@
+{
+  "t": "Schorseneren",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Schorseneren",
+      "note": null
+    },
+    {
+      "amount": 1500,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Schouderham",
+      "note": "standje 2.5, drie plakken"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Geraspte Kaas",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Nootmuskaat",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Azijn",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Olie",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Bloem",
+      "note": null
+    }
+  ],
+  "s": [
+    "Schorseneren enige tijd in water leggen. Daarna schillen met een dun schiller onder water. Geschilde stukken meteen in water met een scheur azijn zetten. Schorseneren hierin 25 min koken. Maak een bechamelsaus van 4 el olie, 4 el bloem en melk tot je een gebonden saus hebt. Dan de geraspte kaas en blokjes ham eraan toevoegen.",
+    "Vet de ovenschaal in, schik daarin de stukken schorseneer en bestrooi ze met de nootmuskaat en maal er wat peper over. Doe de saus eroverheen. Zet de schotel 25 minuten in de oven op 200 graden.",
+    "Schil de aardappel en snij in schijfjes, maximaal 15 min in magnetron om beetgaar te maken. Afbakken in de koekenpan, 20 minuten."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

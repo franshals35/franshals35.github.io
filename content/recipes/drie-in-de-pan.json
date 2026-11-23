@@ -1,0 +1,60 @@
+{
+  "t": "Drie in de pan",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "tl",
+      "name": "Bakpoeder",
+      "note": null
+    },
+    {
+      "amount": 250,
+      "unit": "ml",
+      "name": "Melk",
+      "note": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Rozijnen",
+      "note": "en stukjes appel"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 0.125,
+      "unit": "tl",
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Kaneel",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Suiker",
+      "note": null
+    }
+  ],
+  "s": [
+    "Melk beetje bij beetje mengen met de bloem en bakpoeder. Etc."
+  ],
+  "n": [],
+  "g": []
+}

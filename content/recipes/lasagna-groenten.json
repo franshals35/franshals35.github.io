@@ -1,0 +1,91 @@
+{
+  "t": "Lasagna groenten",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Courgette",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Aubergine",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Oregano",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Basilicum",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Spinazie",
+      "note": "verse"
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Mozzerela",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Geraspte Kaas",
+      "note": "parmezaan en gewoon"
+    },
+    {
+      "amount": 15,
+      "unit": "st",
+      "name": "Lasagna",
+      "note": "bladen"
+    }
+  ],
+  "s": [
+    "Verwarm oven voor op 210 graden.",
+    "Snipper en fruit de ui in een pan, voeg tomaten toe en laat tot 20 min sudderen.",
+    "Snijd de courgette en de aubergine in ronde plakken van ca. 2 milimeter, en leg ze op een rooster op bakpapier.",
+    "Verhit wat olie in een koekenpan en bak hierin de spinazie 5 min. tot het geslonken is. Laat uitlekken in een vergiet.",
+    "Meng wat olie met de kruiden en peper en zout, en besprenkel de plakken daarmee.",
+    "Doe die de groenten 10 min in de oven, halverwege keren.",
+    "Zet de oven daarna op 190 graden.",
+    "Snijd de mozzarella in plakken en rasp de kaas grof. Bedek de schaal met een laagje tomatensaus en daarna met een laag van lasagnebladen. Leg hierop wat spinazie, courgette, aubergine, mozzarella, geraspte kaas en tomatensaus. Herhaal vier keer tot de ingrediënten op zijn. Eindig met tomatensaus en kaas.",
+    "Bak de lasagne ca. 30 min. in het midden van de oven."
+  ],
+  "n": [
+    "Door Annemieke van de AH site gehaald:",
+    "https://www.ah.nl/allerhande/recept/R-R615094/groentelasagne"
+  ],
+  "g": [
+    "vega"
+  ]
+}

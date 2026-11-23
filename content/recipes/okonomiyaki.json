@@ -1,0 +1,77 @@
+{
+  "t": "Okonomiyaki",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 5,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "g",
+      "name": "Zelfrijzend bakmeel",
+      "note": "nee, gewoon volk meel"
+    },
+    {
+      "amount": 1.5,
+      "unit": "tl",
+      "name": "Bakpoeder",
+      "note": "7 g"
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Sojasaus",
+      "note": null
+    },
+    {
+      "amount": 700,
+      "unit": "g",
+      "name": "Groenten",
+      "note": "restjes: 1/4 kool, 1 wortel, 1 prei, doperwten"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Bosui",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Olie",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Mayonaise",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Saus",
+      "note": "half flesje BBQ saus"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Gebakken uitjes",
+      "note": null
+    }
+  ],
+  "s": [
+    "Meng de meel met bakpoeder (grote rode kom), klop de sojasaus en eieren erin luchtig met een garde. Snij de wortel, de harde stukken van de bosui en de 1/4 kool grof en maal fijn in de keuken machine (mes onderin). Snij de prei in dunne halve ringen. Je kunt ook bleekselderij, paprika, doperwten, ui, etc. gebruiken. Voeg de groenten toe aan het beslag en meng zodat er geen vloeibaar beslag meer op de bodem aanwezig is.",
+    "Schep 1/5 van het groenten mengsel in de koekenpan (gebruik meerdere als het kan), bak 5 min per kant op medium tot laag vuur. Houd de koek warm in de oven (85 grad), en bak de volgende.",
+    "Snij de rest van de bosui in ringen en serveer apart erbij. Op je bord de koek met strepen mayonaise en BBQ saus versieren (raster), en bestrooien met de gebakken uitjes en de bosui.",
+    "Hendrik wil een halve; Annemieke en Henk 1 en een kwart."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

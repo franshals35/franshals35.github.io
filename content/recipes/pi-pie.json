@@ -1,0 +1,83 @@
+{
+  "t": "Pi-Pie",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 75,
+      "unit": "g",
+      "name": "Suiker",
+      "note": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Roomboter",
+      "note": "koude blokjes"
+    },
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Appels",
+      "note": "Goudrenet"
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Noten",
+      "note": "pecan noten bijvoorbeeld"
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Rozijnen",
+      "note": null
+    },
+    {
+      "amount": 40,
+      "unit": "g",
+      "name": "Suiker",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Kaneel",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Maïzena",
+      "note": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "tl",
+      "name": "Zout",
+      "note": null
+    }
+  ],
+  "s": [
+    "Deeg",
+    "Kneed met deeghaken de bloem, 75 g suiker, zout, boter in blokjes, en 1 ei tot een soepel deeg. Verpak het deeg in plasticfolie en laat circa 30 minuten in de koelkast rusten. Rol twee derde van het deeg, op een met bloem bestoven aanrecht. Snij er rondjes uit die passen op de kleine taartvormpjes. Hou de rest van het deeg apart. Vet de springvorm in en bekleed met het deeg. Het is makkelijk te repareren met restjes deeg. Bestrooi de bodem met paneermeel.",
+    "Vulling",
+    "Hak de noten in kleinere stukken.",
+    "Verwarm de oven voor op 180 ºC. Schil de appels, verwijder het klokhuis en snijd in kleine blokjes. Meng samen met 40 g suiker, rozijnen, noten, kaneelpoeder en maizena. Leg de appel over de bodem en druk echt stevig aan.",
+    "Rol de rest van het deeg uit tot een dikte van circa 2 millimeter. Snijd repen en maak hiermee de letter PI op het gebakje. Bestrijk de bovenkant met het ei dooier-melk mengsel. Bak de taart in circa 40 min goudbruin en gaar. Laat de taart afkoelen."
+  ],
+  "n": [],
+  "g": []
+}

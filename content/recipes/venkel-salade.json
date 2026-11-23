@@ -1,0 +1,65 @@
+{
+  "t": "Venkel salade",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Venkelknol",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": "kleine rode of sjalot"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Mandarijnen",
+      "note": "blik"
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Rozijnen",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Olie",
+      "note": "olijf"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Azijn",
+      "note": "kruiden"
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Mosterd",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Honing",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snij venkel en ui in heel dunne repen.",
+    "Maak dressing van 2 el olie en 1 el azijn met de honing en mosterd.",
+    "Voeg dit met de mandarijnen en rozijnen aan alles toe, en meng goed."
+  ],
+  "n": [],
+  "g": [
+    "vega",
+    "salade"
+  ]
+}

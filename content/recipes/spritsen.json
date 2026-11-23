@@ -1,0 +1,49 @@
+{
+  "t": "Spritsen",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 112,
+      "unit": "g",
+      "name": "Roomboter",
+      "note": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Suiker",
+      "note": "witte basterd suiker"
+    },
+    {
+      "amount": 0.5,
+      "unit": "st",
+      "name": "Vanillesuiker",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "g",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "tl",
+      "name": "Bakpoeder",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    }
+  ],
+  "s": [
+    "Verwarm de oven voor op 180 graden.",
+    "Laat de roomboter op kamertemperatuur komen, en roer deze tot een room. Voeg de suiker en vanille suiker toe en meng alles tot een gladde massa. Daarna het gezeefde bloem, snufje zout en bakpoeder erdoor scheppen tot een zacht homogeen deeg ontstaat. Bak ze in 22 min af."
+  ],
+  "n": [],
+  "g": []
+}

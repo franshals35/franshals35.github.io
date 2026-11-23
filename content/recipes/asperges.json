@@ -1,0 +1,51 @@
+{
+  "t": "Asperges",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1.3,
+      "unit": "kg",
+      "name": "Asperges",
+      "note": "20 stuks"
+    },
+    {
+      "amount": 1,
+      "unit": "kg",
+      "name": "Aardappels",
+      "note": "Malta of bintje"
+    },
+    {
+      "amount": 10,
+      "unit": "st",
+      "name": "Eieren",
+      "note": "gekookt"
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Achterham",
+      "note": "iets dikker gesneden"
+    },
+    {
+      "amount": 125,
+      "unit": "g",
+      "name": "Roomboter",
+      "note": null
+    }
+  ],
+  "s": [
+    "Bewaar de asperges tot gebruik in een vochtige theedoek onderin de koelkast.",
+    "Serveerschaal voorverwarmen (kokend water of in oven). Eieren en ham in grove stukken verkruimelen",
+    "Asperges echt goed schillen.",
+    "Asperges in hoge pan, kopjes boven het water uit laten steken (vooraf meten met koud water en asperges).",
+    "Water aan de kook brengen (gebruik ook snelkoker), asperges toevoegen, wekker op 20 min en opnieuw laten koken (duurt weer lang).",
+    "Kookt weer op 12 min, op 1 min wel klaar => vuur uit. Als ze nog net slap hangen zijn ze goed.",
+    "Boter zacht laten smelten in een pannetje (GEEN magnetron).",
+    "De ham verwarmen in de magnetron (2x 30 seconden)."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

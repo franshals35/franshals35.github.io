@@ -1,0 +1,57 @@
+{
+  "t": "Karnemelk Appeltaart uit Belgie",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Suiker",
+      "note": null
+    },
+    {
+      "amount": 80,
+      "unit": "g",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 150,
+      "unit": "ml",
+      "name": "Karnemelk",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Appels",
+      "note": "Gewoon frisse Elstar is heel goed"
+    },
+    {
+      "amount": 125,
+      "unit": "g",
+      "name": "Roomboter",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    }
+  ],
+  "s": [
+    "Smelt de boter in een kommetje.",
+    "Vet een taartvorm in en bestuif met bloem.",
+    "Omhul de bodem van de taartvorm met aluminium folie (anders heb je kans op lekken).",
+    "Schil de appels en snijd het in dunne partjes.",
+    "Maak een beslag van de suiker, bloem, karnemelk, en de 2 eieren. Probeer er goed lucht in te kloppen.",
+    "Giet het beslag in de vorm, en bedek het met de dunne appelschijfjes.",
+    "Een springvorm kan lekken, omhul dan de onderkant met alu-folie om het op te vangen.",
+    "Bak op 200 graden in 40 minuten gaar."
+  ],
+  "n": [
+    "Van de moeder van Veerle Reumers (Sr. Scientist Life Science Technologies bij IMEC, Belgie)"
+  ],
+  "g": []
+}

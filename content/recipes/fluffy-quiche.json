@@ -1,0 +1,52 @@
+{
+  "t": "Fluffy Quiche",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Achterham",
+      "note": "in plakken"
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Broccoli",
+      "note": null
+    },
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 80,
+      "unit": "g",
+      "name": "Boursin",
+      "note": "kruidenkaasje knoflook"
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Melk",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peterselie",
+      "note": null
+    }
+  ],
+  "s": [
+    "Maak een quiche deeg (ook in dit boek).",
+    "Snij de broccoli in kleine roosjes en maak hem beetgaar (magnetron 6 minuten). Snij de ham in reepjes en leg deze in de schaal op het deeg. Daarna de broccoli erop. Klop in een schaal de drie eieren, boursin, peterselie en nog een klein beetje melk los. Giet dit mengsel regelmatig verdeeld in de schaal.",
+    "Het geheel 40 minuten in de oven op 200°C."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

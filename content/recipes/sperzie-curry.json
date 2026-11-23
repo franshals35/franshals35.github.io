@@ -1,0 +1,91 @@
+{
+  "t": "Sperzie curry",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Sperziebonen",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": null
+    },
+    {
+      "amount": 400,
+      "unit": "ml",
+      "name": "Kokosmelk",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Rijst",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": "ook gebakken uitjes"
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Tamarindepasta",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Gemberpoeder",
+      "note": "djahe"
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Komijn, gemalen",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Kurkuma",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Gebakken uitjes",
+      "note": null
+    }
+  ],
+  "s": [
+    "Kook de rijst. Punt de sperziebonen.",
+    "Fruit de ui en knoflook. De tamarindepasta, koriander, komijn, djahe en kurkuma 1 min meebakken.",
+    "Blus met de tomaat en daarna de kokosmelk, voeg speriebonen toe, met beetje zout, laat 15 min sudderen.",
+    "Serveren met gebakken uitjes."
+  ],
+  "n": [
+    "https://foxilicious.nl/2018/11/05/frisse-curry-met-sperziebonen/"
+  ],
+  "g": [
+    "vega"
+  ]
+}

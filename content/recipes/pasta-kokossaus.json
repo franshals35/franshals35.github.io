@@ -1,0 +1,52 @@
+{
+  "t": "Pasta kokossaus",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 425,
+      "unit": "g",
+      "name": "Pasta",
+      "note": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Champignons",
+      "note": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "st",
+      "name": "Prei",
+      "note": null
+    },
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Boterhammen",
+      "note": null
+    },
+    {
+      "amount": 400,
+      "unit": "ml",
+      "name": "Kokosmelk",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Miso",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snij de champignons in plakjes en bak hard aan in olie. Snij de prei in halve ringen voeg pas toe als de champignons goed gebruind zijn. Daarna kokosmelk en miso toevoegen en in 10 min laten inkoken.",
+    "Kook de pasta.",
+    "Bak het brood tot croutons met zout en tuinkruiden."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

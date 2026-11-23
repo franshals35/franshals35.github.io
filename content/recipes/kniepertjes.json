@@ -1,0 +1,64 @@
+{
+  "t": "Kniepertjes",
+  "b": 50,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 135,
+      "unit": "g",
+      "name": "Suiker",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Vanillesuiker",
+      "note": "zakjes"
+    },
+    {
+      "amount": 193,
+      "unit": "g",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 59,
+      "unit": "g",
+      "name": "Roomboter",
+      "note": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "tl",
+      "name": "Citroen olie",
+      "note": "van Baukje"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": "snufje"
+    },
+    {
+      "amount": 19,
+      "unit": "ml",
+      "name": "Melk",
+      "note": "warm"
+    }
+  ],
+  "s": [
+    "Smelt de boter, meng daarin de suiker, snufje zout, vanillesuiker, eieren, citroenolie, warme melk en de bloem. Goed mengen en kneden, en 2 uur tot een dag in de koelkast laten opstijven.",
+    "Vorm uit het deeg een balletje (2 cm rond) en plaats dit in het bakijzer. Stevig aandrukken en 1 minuut laten bakken (of wacht op de ping). Daarna af laten koelen op een rooster en in een trommel stoppen.",
+    "2024: 28 in een half uur."
+  ],
+  "n": [
+    "Op internet wordt er ook wel eens een tl kaneel toegevoegd."
+  ],
+  "g": []
+}

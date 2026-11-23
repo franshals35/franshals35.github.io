@@ -1,0 +1,71 @@
+{
+  "t": "Brownies",
+  "b": 12,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Chocolade",
+      "note": "minstens 70% cacao"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Pruimen",
+      "note": "Ontpitte pruimen"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Amandelen",
+      "note": "met het jasje nog aan"
+    },
+    {
+      "amount": 140,
+      "unit": "g",
+      "name": "Roomboter",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 290,
+      "unit": "g",
+      "name": "Bruine suiker",
+      "note": null
+    },
+    {
+      "amount": 80,
+      "unit": "g",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 1.25,
+      "unit": "tl",
+      "name": "Bakpoeder",
+      "note": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "tl",
+      "name": "Zout",
+      "note": null
+    }
+  ],
+  "s": [
+    "Verwarm de oven voor op 180 graden. Snij de amandelen in grove stukken en rooster ze op een bakpapiertje 9 minuten in de oven.",
+    "Smelt de boter en de chocoladestukken in een stalen kom boven zacht kokend water (water mag de kom niet aanraken). Haal het van het vuur wanneer gesmolten en goed gemengd, en meng het vervolgens met de in stukken gesneden pruimen en amandelen.",
+    "Mix in een andere kom de geslagen eieren, de bloem, het bakpoeder, het zout en de bruine basterd suiker. Voeg het chocolade mengsel toe en roer alles tot een homogeen beslag.",
+    "Doe het beslag in een brownie ovenschaal en doe dit op 180 graden in de oven voor 40 minuten.",
+    "Laat het daarna VOLLEDIG afkoelen voordat je het in stukken snijd.",
+    "Je kunt vanille extract toevoegen (een thee lepel of een zakje vanille suiker). En ook twee eetlepels sterke koffie (of oplos koffie poeder)."
+  ],
+  "n": [],
+  "g": []
+}

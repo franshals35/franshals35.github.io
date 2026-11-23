@@ -1,0 +1,89 @@
+{
+  "t": "Paastaart klein",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 5,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Suiker",
+      "note": null
+    },
+    {
+      "amount": 34,
+      "unit": "g",
+      "name": "Poedersuiker",
+      "note": null
+    },
+    {
+      "amount": 22,
+      "unit": "g",
+      "name": "Maïzena",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Vanillesuiker",
+      "note": null
+    },
+    {
+      "amount": 140,
+      "unit": "g",
+      "name": "Boter",
+      "note": "roomboter"
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Koffie extract",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Hagelslag",
+      "note": "pure"
+    }
+  ],
+  "s": [
+    "Dit is een taart voor een 18 cm vorm. Voor een 24 cm vorm moet de factor 1.79 erover.",
+    "Kapsel:",
+    "1 ei en 4 eiwitten",
+    "110 g suiker",
+    "iets zout NIET VERGETEN",
+    "90 g bloem",
+    "22 g maizena",
+    "Kom (voor)verwarmen in magnetron 18 cm taartvorm beboteren, alleen bodem bedekken met bakpapier en randen met meel bestuiven. Suiker en ei luchtig kloppen (minstens 10 minuten), daarna de gezeefde bloem en maizena erbij.",
+    "In vorm en 30 minuten op 180 graden in de oven. Goed laten uitwasemen.",
+    "Roomvla:",
+    "280 ml melk (mag halfvolle zijn)",
+    "4 ei dooiers",
+    "1 zakje vanillesuiker",
+    "80 g suiker",
+    "2 el bloem",
+    "Melk tegen de kook aanbrengen, ei dooiers met suiker en bloem goed mengen in een andere kom. Klein beetje warme melk bij de eieren, en dat mengsel vervolgens op het matig vuur . Roeren tot je een dikke massa krijgt, dan vuur uit en laten afkoelen.",
+    "Mokka creme",
+    "140 g roomboter op kamertemperatuur",
+    "34 g poedersuiker",
+    "1 eetlepel poederkoffie en 17 g suiker opgelost in 40 ml warme melk",
+    "Kook melk met poederkoffie en suiker in tot een vloeibaar drabje. Mix de boter, los de poedersuiker er in op, en voeg beetje bij beetje de melk toe. Meng dit met 2/3 van de roomvla, en laat dit op een platte schaal afkoelen in de koelkast.",
+    "Kapsel in 3en snijden. Onderste met 1/3 van de mokka creme, middelste kapsel met de overgebleven roomvla. Vervolgens het laatste kapsel er op, weer 1/3 van de mokka creme erop, en vanaf de bovenkant ook de zijkant hiermee besmeuren (paletmes)",
+    "De zijkant kun je vervolgens garneren met bijvoorbeeld pure hagelslag.",
+    "Met de resterende mokka creme roosjes en nestjes spuiten en vullen met suiker eitjes. Je kunt de rand ook versieren met halve chocolade eitjes."
+  ],
+  "n": [],
+  "g": []
+}

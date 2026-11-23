@@ -1,0 +1,46 @@
+{
+  "t": "Crème brûlée",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 4.5,
+      "unit": "st",
+      "name": "Eieren",
+      "note": "eidooiers"
+    },
+    {
+      "amount": 75,
+      "unit": "g",
+      "name": "Suiker",
+      "note": null
+    },
+    {
+      "amount": 375,
+      "unit": "ml",
+      "name": "Slagroom",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Vanillesuiker",
+      "note": "ECHTE PEUL"
+    }
+  ],
+  "s": [
+    "Verwarm de oven voor op 130 graden.",
+    "Verwijder het merg uit de vanille en doe dit samen met de room in een steelpannetje. Verwarm de slagroom op een zacht vuur.",
+    "Klop in de tussentijd de eidooiers met de suiker luchtig.",
+    "Giet de warme slagroom op de geklopte eidooiers en meng het snel door elkaar met een garde.",
+    "Verdeel het mengsel over de schaaltjes (2,5 jus opscheplepel).",
+    "Zet de schaaltjes in een ovenschaal of op een bakplaat met opstaande rand. Plaats de schaal in de oven. Giet 1 L heet water in de schaal tot ongeveer driekwart van de bakjes. Op deze manier wordt het au bain marie gegaard.",
+    "Laat de creme brulee in ongeveer 60 minuten stollen. Hij mag van binnen nog best een beetje wiebelig zijn.",
+    "Laat de crème brûlée minimaal 3 uur opstijven in de koelkast. Het liefst een hele nacht.",
+    "Voor serveren bestrooien met fijne suiker (gebruik een strooier) en de top laag karamelliseren met een gasbrander."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

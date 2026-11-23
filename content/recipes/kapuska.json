@@ -1,0 +1,99 @@
+{
+  "t": "Kapuska",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Witte kool",
+      "note": "(of rode)"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Wortels",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": null
+    },
+    {
+      "amount": 140,
+      "unit": "g",
+      "name": "Tomaten puree",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Paprikapoeder",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Komijn, gemalen",
+      "note": "djinten"
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Oregano",
+      "note": null
+    },
+    {
+      "amount": 250,
+      "unit": "ml",
+      "name": "Water",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "st",
+      "name": "Bouillonblokje",
+      "note": null
+    },
+    {
+      "amount": 220,
+      "unit": "g",
+      "name": "Rijst",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snipper en fruit de ui, wortel, knoflook en blokjes aardappel.",
+    "Snij de kool fijn.",
+    "Voeg de tomatenpuree en de kruiden (paprika, komijn, oregano) toe aan he ui mengsel en bak even hard door.",
+    "Voeg de gepelde tomaten toe met de kool en het 1/2 bouilonblokje met water.",
+    "Laat het met deksel op pan 30 min sudderen (rode kool 40 minuten). Af en toe omroeren en eventueel water toevoegen.",
+    "Serveren met rijst."
+  ],
+  "n": [
+    "Turks koolgerecht"
+  ],
+  "g": [
+    "vega"
+  ]
+}

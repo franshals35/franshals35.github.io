@@ -1,0 +1,63 @@
+{
+  "t": "Witlof salade",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Witlof",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Mandarijnen",
+      "note": "blikje"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Appels",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Yoghurt",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Mayonaise",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Bieslook",
+      "note": null
+    }
+  ],
+  "s": [
+    "Kook de eieren.",
+    "Laat de mandarijnen uitlekken.",
+    "Pel de eieren en snij ze in kleine stukjes.",
+    "Schil de appel en snij deze in kleine stukjes.",
+    "Snij elke witlof in 4 stukken, verwijder het kernstuk en snij de overgebleven blaadjes in smalle reepjes.",
+    "Maak een dressing van de yoghurt, mayonaise en bieslook.",
+    "Meng alles in een grote kom samen."
+  ],
+  "n": [],
+  "g": [
+    "salade",
+    "vega"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "t": "Zuurkool ovenschotel Mien",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Gehakt, half-om-half",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "g",
+      "name": "Spekreepjes",
+      "note": "reepjes"
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Zuurkool",
+      "note": null
+    },
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "st",
+      "name": "Ui",
+      "note": "gesnipperd"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Boter",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Nootmuskaat",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Kerriepoeder",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Paneermeel",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Melk",
+      "note": null
+    },
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Kruidnagels",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Laurierblaadjes",
+      "note": null
+    }
+  ],
+  "s": [
+    "Zuurkool 30 min stoven met 1/2 ui, 4 kruidnagels en 2 laurier bladen en een hand krenten (50 gram).",
+    "Kook de aardappelen 20 min gaar en maak er een puree van met een klontje boter, wat zout, peper, nootmuskaat, kerrie en een scheutje melk.",
+    "Verwarm de oven voor op 200 °C",
+    "Bak de spekjes uit en bewaar ze.",
+    "Fruit de ui en bak het gehakt erbij rul (voeg eventueel wat vleeskruiden toe).",
+    "Vet de ovenschaal in en verdeel eerst de zuurkool, dan het vlees, en dan de aardappelpuree in de schaal. Bestrooien met paneermeel en 5 kleine stukjes boter erop leggen.",
+    "Zet de schaal 30 min in de oven op 200°C."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

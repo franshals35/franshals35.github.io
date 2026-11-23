@@ -1,0 +1,95 @@
+{
+  "t": "Slagroomtaart",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 8,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Suiker",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 40,
+      "unit": "g",
+      "name": "Maïzena",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": 250,
+      "unit": "ml",
+      "name": "Melk",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Vanillesuiker",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Klopvast",
+      "note": null
+    },
+    {
+      "amount": 500,
+      "unit": "ml",
+      "name": "Slagroom",
+      "note": null
+    }
+  ],
+  "s": [
+    "Kapsel:",
+    "6 eieren",
+    "200 g suiker",
+    "160 g bloem",
+    "40 g maizena",
+    "iets zout NIET VERGETEN",
+    "kom eventueel (voor)verwarmen.",
+    "24 cm taartvorm beboteren en met meel bestuiven. Eventueel boven met bakpapier.",
+    "suiker en ei luchtig kloppen (minstens 12 minuten), mengen met de gezeefde bloem, maizena en zout.",
+    "In vorm en 40 minuten op 185 graden in de oven",
+    "Goed laten uitwasemen.",
+    "Roomvla:",
+    "250 ml melk (mag halfvolle zijn)",
+    "2 eieren",
+    "2 zakjes vanillesuiker",
+    "50 g suiker",
+    "25 g bloem",
+    "melk tegen de kook aanbrengen",
+    "eieren met suiker en bloem goed mengen",
+    "bij de melk voegen, en roeren tot je een dikke massa krijgt, dan vuur uit..",
+    "laten afkoelen.",
+    "Klopvast en 0.5 L slagroom",
+    "0.25 voor de vulling, stevig geklopt, 1 vanillesuiker & 1 theelepel suiker & 1 klopvast",
+    "0.25 voor het omhullen, minder stevig geklopt, 1 vanillesuiker & 1 theelepel suiker & 1 klopvast",
+    "Eventueel kun je 0.2 om 0.2 doen, en 0.1 slagroom overhouden voor toefjes.",
+    "Kapsel in 3en snijden. Onderste met roomvla vullen. Middelste kapsel er op, heel licht bestrijken met jam. Dan de stijve slagroom erop.",
+    "Vervolgens het laatste kapsel er op, de minder stijve slagroom er bovenop en vanaf de bovenkant ook de zijkant besmeuren met slagroom. Het afwerken gaat het mooist met een warm palet mes.",
+    "De zijkant kun je vervolgens garneren met bijvoorbeeld hagelslag.",
+    "De bovenkant garneren met vruchtjes, toefjes slagroom.",
+    "De taart wordt zo hoog dat je hem in wel 14-16 stukken kunt snijden."
+  ],
+  "n": [],
+  "g": []
+}

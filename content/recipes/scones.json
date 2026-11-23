@@ -1,0 +1,53 @@
+{
+  "t": "Scones",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Zelfrijzend bakmeel",
+      "note": null
+    },
+    {
+      "amount": 75,
+      "unit": "g",
+      "name": "Roomboter",
+      "note": null
+    },
+    {
+      "amount": 40,
+      "unit": "g",
+      "name": "Suiker",
+      "note": "Witte basterd"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "tl",
+      "name": "Melk",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    }
+  ],
+  "s": [
+    "Verwarm de oven voor op 220 graden.",
+    "Roomboter op kamertemperatuur brengen en met het gezeefde bakmeel en een snufje zout verkruimelen. Daarna de suiker erbij mengen. In een andere kom het ei met de melk loskloppen en vervolgens bij het deeg kneden.",
+    "Het deeg op 2.5 cm uitrollen en met een 5 cm ronde steker uitsteken. Restjes deeg weer opnieuw kneden, rollen en steken tot alles op is. (9 stuks)",
+    "Leg de scones op bakpapier op een bakplaat, en bestrijk ze licht met wat melk.",
+    "Bak de scones af in 14 minuten op 220 graden in de oven.",
+    "Warm serveren, smeren met echte boter en jam."
+  ],
+  "n": [],
+  "g": []
+}

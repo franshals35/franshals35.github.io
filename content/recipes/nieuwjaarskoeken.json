@@ -1,0 +1,65 @@
+{
+  "t": "Nieuwjaarskoeken",
+  "b": 25,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 91,
+      "unit": "g",
+      "name": "Bruine suiker",
+      "note": null
+    },
+    {
+      "amount": 45,
+      "unit": "g",
+      "name": "Stroop",
+      "note": null
+    },
+    {
+      "amount": 183,
+      "unit": "g",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 1.1,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 45,
+      "unit": "g",
+      "name": "Roomboter",
+      "note": null
+    },
+    {
+      "amount": 55,
+      "unit": "ml",
+      "name": "Melk",
+      "note": "warm"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Droge worst",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": "snufje"
+    }
+  ],
+  "s": [
+    "Verwarm de boter en de melk in de magnetron. Los de bruine suiker, snufje zout en stroop hierin op. Voeg de bloem en de eieren toe, en meng het tot een stroperig deeg. Laat het 2 uur tot een dag in de koelkast rusten.",
+    "Snij de worst in echt heel dunne plakjes (< 2 mm; de dikte bepaald de dikte van de koek). Leg vier plakjes in het ijzer tegen elkaar aan in het midden. Pak een lepel beslag, en doe meteen op de worst.",
+    "Stevig aandrukken en 1 minuut laten bakken, of wachten op de ping (Cloer stand 4,5).",
+    "Wanneer klaar, snijd de koek die over het randje is gelopen er af, want die wordt nooit hard en dat is niet lekker.",
+    "Favoriet van Wim Lutke.",
+    "2024, 24 koeken."
+  ],
+  "n": [],
+  "g": []
+}

@@ -1,0 +1,79 @@
+{
+  "t": "Quiche Prei",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Prei",
+      "note": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Geraspte Kaas",
+      "note": null
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Champignons",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "Crème Fraîche",
+      "note": null
+    },
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Miso",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Paneermeel",
+      "note": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "tl",
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Oregano",
+      "note": null
+    }
+  ],
+  "s": [
+    "Maak een quiche deeg, en bak deze blind in 20 min op 190 graden (ook in dit boek).",
+    "Maak de prei schoon en snij in halve ringen. Zachtjes fruiten in olie, samen met de knoflook.",
+    "Bak de champignons op hoog vuur bruin.",
+    "Klop drie eieren luchtig met de creme fraiche en een beetje melk. Voeg zout en peper toe naar smaak, echt doen, anders wordt het te flauw. Leg een flinke bodem van paneermeel op het deeg in de blind gebakken quiche vorm.",
+    "Doe de geraspte kaas door het opgeklopte ei met de oregano, en doe dit in de quiche vorm.",
+    "Het geheel nogmaals 20 minuten in de oven op 190°C."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

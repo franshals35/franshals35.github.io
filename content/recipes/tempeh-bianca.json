@@ -1,0 +1,81 @@
+{
+  "t": "Tempeh Bianca",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Tempeh",
+      "note": null
+    },
+    {
+      "amount": 220,
+      "unit": "g",
+      "name": "Rijst",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Prei",
+      "note": null
+    },
+    {
+      "amount": 600,
+      "unit": "g",
+      "name": "Sperziebonen",
+      "note": null
+    },
+    {
+      "amount": 75,
+      "unit": "g",
+      "name": "Cashewnoten",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Ketjap Manis",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Sweet Chili sauce",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Citroen sap",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Olie",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Miso",
+      "note": null
+    }
+  ],
+  "s": [
+    "Bak de cashew noten lichtbruin",
+    "Kook de sperziebonen 10 min.",
+    "Kook de rijst. Snij de prei in halve ringen.",
+    "Snijd de tempeh in blokjes. Bak ze in ruim olie rustig bruin en krokant in 5-10 min.",
+    "Maak een saus van 2 el sweet chilisauce, 1 el ketjap manis, 1 el miso en 1 el citroensap.",
+    "Verwijder een teveel aan olie, zet vuur laag, voeg de saus toe en wentel de blokjes er in om voor een minuutje.",
+    "Voeg dan de prei toe en stoof dit 5 minuutjes.",
+    "Daarna mengen met de sperziebonen."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "t": "Spaghetti Bolognese - lang",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Gehakt, runder",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Wortels",
+      "note": "een peen"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Bleekselderij",
+      "note": "vijf stengels"
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 400,
+      "unit": "ml",
+      "name": "Rode wijn",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "ml",
+      "name": "Bouillonblokje",
+      "note": "runderbouillon"
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Suiker",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peterselie",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Geraspte Kaas",
+      "note": null
+    },
+    {
+      "amount": 350,
+      "unit": "g",
+      "name": "Pasta",
+      "note": "spaghetti"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Komkommer",
+      "note": null
+    }
+  ],
+  "s": [
+    "Fruit ui, knoflook, wortel en bleekselderij in een grote pan. Bak daarna het gehakt erbij rul. Voeg wijn, bouillon, tomaat, suiker en peterselie toe en breng het aan de kook. Laat het op laag vuur 1.5 uur pruttelen, af en toe roeren. Voeg zout en peper naar smaak toe. Kook de spaghetti al dente, en serveer met geraspte kaas."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

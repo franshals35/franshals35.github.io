@@ -1,0 +1,101 @@
+{
+  "t": "Kaasfondue",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "tl",
+      "name": "Maïzena",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "Kippenbouillon",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "Melk",
+      "note": "of witte wijn"
+    },
+    {
+      "amount": 450,
+      "unit": "g",
+      "name": "Geraspte Kaas",
+      "note": "jong belegen"
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Geraspte Kaas",
+      "note": "Parmasan"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Stokbrood",
+      "note": "in blokjes"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Broccoli",
+      "note": "roosjes in 4 min beetgaar"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Schouderham",
+      "note": "1 dikke plak, standje 8 (vooraf bestellen"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": "blokjes, in 4 min beetgaar"
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Champignons",
+      "note": "in helften, eerst onder gril"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Paprika",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Bloem",
+      "note": null
+    }
+  ],
+  "s": [
+    "Caquelon voor gebruik 2 uur in koud water zetten.",
+    "In aparte pan op het vuur de melk met maizena en bouillon verwarmen, en de geraspte kaas erin smelten. (Kaas mag niet koken, alleen smelten).",
+    "Knoflook teen in twee helften, en caqulon mee insmeren. Eventueel erin laten. Kaasmengsel overgieten in de caquelon en serveren.",
+    "Champs in helften (ze krimpen) 16 min onder gril."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

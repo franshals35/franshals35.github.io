@@ -1,0 +1,69 @@
+{
+  "t": "BBQ recepten",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Hamburger",
+      "note": "unox/jumbo"
+    },
+    {
+      "amount": 10,
+      "unit": "st",
+      "name": "Knakworstjes",
+      "note": "kleine"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "-",
+      "note": "Stokbrood"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "-",
+      "note": "Saus"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Komkommer",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Paprika",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "-",
+      "note": "Mozzerela"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Courgette",
+      "note": null
+    }
+  ],
+  "s": [
+    "Stokbrood, cocktail, satesaus, mayo",
+    "4 unox/Jumbo Hamburgers (dubbeldekkers)",
+    "10 kleine Knakworst",
+    "Paprika's in 3 kommetjes snijden en vullen met mozzerella",
+    "Courgette in plakken van 1 cm snijden en insmeren met zout/peper/olie (en andere kruiden)",
+    "1,5 portie kruidenboter maken (75 gram, 1,25 tl poeder)",
+    "Serveren met griekse salade.",
+    "14 spiesjes halen bij de slager. (4 gamba, 3 speklap op stok, 4 worstjes, 3 andere)"
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

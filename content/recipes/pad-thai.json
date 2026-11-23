@@ -1,0 +1,81 @@
+{
+  "t": "Pad Thai",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 15,
+      "unit": "st",
+      "name": "Vissticks",
+      "note": null
+    },
+    {
+      "amount": 220,
+      "unit": "g",
+      "name": "Rijstnoodles",
+      "note": null
+    },
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 450,
+      "unit": "g",
+      "name": "Groentepakket",
+      "note": "nasi"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Paksoi",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Tamarindepasta",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "el",
+      "name": "Vissaus",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Azijn",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Honing",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Sojasaus",
+      "note": null
+    }
+  ],
+  "s": [
+    "Borden voorverwarmen op 90 graden.",
+    "Wel de rijstnoodles 4 min in heet water, afgieten (vergiet), afspoelen, scheutje olie, en wegzetten.",
+    "Bak de visstick rustig in een pan met wat olie.",
+    "Breng de tamarinde, vissaus, honing, azijn en sojasaus even aan de kook, en zet weg.",
+    "Snij de paksoi, wok 3 min, zet appart (oven 90 graden).",
+    "Roerbak de eieren met een beetje zout&peper, en doe bij de paksoi.",
+    "Roerbak de nasi groenten 3 min, bak daarna de rijstnoodles mee, en maak af met de saus.",
+    "Maak de borden op met de paksoi/ei, noodles/groente en de visstick."
+  ],
+  "n": [],
+  "g": [
+    "vis"
+  ]
+}

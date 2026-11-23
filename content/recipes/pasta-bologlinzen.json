@@ -1,0 +1,102 @@
+{
+  "t": "Pasta Bologlinzen",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Linzen",
+      "note": "gedroogd"
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Bleekselderij",
+      "note": "2 stengels"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Wortels",
+      "note": null
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Champignons",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": "4 ons"
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Pasta",
+      "note": "spaghetti"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Bouillonblokje",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Oregano",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Basilicum",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Kaas",
+      "note": "parmezaanse"
+    },
+    {
+      "amount": 140,
+      "unit": "g",
+      "name": "Tomaten puree",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snij ui en groenten in stukken.",
+    "Fruit ui en knoflook, en bak de wortel, bleekselderij en champignons kort mee.",
+    "Voeg de tomaten, bouillonblokje en Ve-tsin toe, en laat 30 min sudderen. Na 10 minuten de linzen erbij. Voeg een beetje water toe indien het droogkookt.",
+    "Kook de spaghetti 9 minuten.",
+    "Laatste 5 min de oregano en basilicum toevoegen.."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

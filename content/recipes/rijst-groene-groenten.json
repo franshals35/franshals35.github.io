@@ -1,0 +1,64 @@
+{
+  "t": "Rijst groene groenten",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Broccoli",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Rijst",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Kerriepoeder",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Cayennepeper",
+      "note": "een snuf"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Bouillonblokje",
+      "note": "groentenbouillon"
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Doperwten",
+      "note": "tuinerwten"
+    },
+    {
+      "amount": 5,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    }
+  ],
+  "s": [
+    "Verhit olie en bak de rijst, kerrie, cayennepeper en knoflook 3 minuten, schep regelmatig om. Voeg 450 ml kokend water en het bouillonblokje toe en laat met deksel op de pan 10 min stoven.",
+    "Kook de eieren. Snij broccoli in kleine roosjes, voeg na de 10 min toe samen met de erwten, en stoof nog eens 10 min (met deksel). Indien nodig nog wat kokend water toevoegen.",
+    "Serveer met de gepelde halve eieren."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

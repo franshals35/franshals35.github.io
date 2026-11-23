@@ -1,0 +1,56 @@
+{
+  "t": "Kip madras",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Kerriepoeder",
+      "note": "Verstegen kip madras"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Rijst",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Kippedijen",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Bloemkool",
+      "note": null
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Sugarsnaps",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "ml",
+      "name": "Kokosmelk",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": null
+    }
+  ],
+  "s": [
+    "Kook rijst. Snij kipfilet en marineer in madras en 2 el olie. Snij bloemkool in kleine roosjes en kook 3 min. Bak de kip op hoog vuur bruin, voeg de bloemkool, sugersnaps, kokosmelk en tomaten toe en laat 8 min zachtjes koken."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

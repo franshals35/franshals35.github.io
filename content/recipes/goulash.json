@@ -1,0 +1,75 @@
+{
+  "t": "Goulash",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Runderpoulet",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Paprika",
+      "note": "zón stoplicht"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Wortels",
+      "note": "of een heel kleine winterpeen"
+    },
+    {
+      "amount": 70,
+      "unit": "g",
+      "name": "Tomaten puree",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Paprikapoeder",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "l",
+      "name": "Runderbouillon",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Laurierblaadjes",
+      "note": "verse blaadjes inknippen"
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Rijst",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snij de paprika en wortel in kleine blokjes, en snipper de ui. Bak de runderpoulet op hoog vuur totdat het donkerbruine randjes krijgt. Voeg dan de ui, paprika, paprikapoeder, en wortels toe en bak tot de ui glazig ziet. Voeg dan de bouillon met de tomatenpuree toe met het laurierblaadje en de bloem. Laat het 5,5 uur sudderen todat de bouillon dik is geworden.",
+    "Serveren met rijst."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

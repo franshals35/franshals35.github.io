@@ -1,0 +1,69 @@
+{
+  "t": "Nieuwjaarsrolletjes",
+  "b": 75,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 480,
+      "unit": "g",
+      "name": "Suiker",
+      "note": null
+    },
+    {
+      "amount": 2.5,
+      "unit": "st",
+      "name": "Vanillesuiker",
+      "note": "Staat niet in het originele recept!"
+    },
+    {
+      "amount": 600,
+      "unit": "g",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 2.5,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 240,
+      "unit": "g",
+      "name": "Roomboter",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Slagroom",
+      "note": "spuitbus met ballon"
+    },
+    {
+      "amount": 135,
+      "unit": "ml",
+      "name": "Water",
+      "note": "kokend"
+    },
+    {
+      "amount": 135,
+      "unit": "ml",
+      "name": "Melk",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": "snufje"
+    }
+  ],
+  "s": [
+    "Los de suiker, snufje zout en de vanillesuiker op in het warme water/melk. Voeg de gesmolten boter, de bloem en de eieren toe, en meng het tot een stevig deeg. Laat het 2 uur tot een dag in de koelkast rusten.",
+    "Schep een halve eetlepel beslag, en plaats dit in het bakijzer. Stevig aandrukken en 1'20 minuut laten bakken. Daarna snel om de ronde steel van een pollepel (12 mm diameter) draaien en af laten koelen. Ongeveer 85 rolletjes, goed voor de nieuwjaarsinstuif."
+  ],
+  "n": [
+    "Het originele recept van Lien is zonder vanillesuiker."
+  ],
+  "g": []
+}

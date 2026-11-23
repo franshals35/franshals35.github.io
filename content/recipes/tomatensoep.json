@@ -1,0 +1,103 @@
+{
+  "t": "Tomatensoep",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Courgette",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Paprika",
+      "note": "geel"
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Gehakt, half-om-half",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pakje droge soep",
+      "note": "tomatensoep"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Stokbrood",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Huzarensalade",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Soepstengels",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Vermicelli",
+      "note": "handje"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Kruidenboter",
+      "note": null
+    },
+    {
+      "amount": 2.2,
+      "unit": "l",
+      "name": "Water",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Bouillonblokje",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": null
+    }
+  ],
+  "s": [
+    "De paprika, ui, knoflook in kleine stukjes snijden en fruiten in de soeppan.",
+    "Koud water met het soeppakje toevoegen en het bouillon blokje.",
+    "Als het kookt, de in stukjes gesneden courgette toevoegen en 10 min laten koken.",
+    "Aanvullen tot 3,4 liter soep.",
+    "Serveren met stokbrood, huzarensalade en soepstengels.",
+    "Kruidenboter kun je ook zelf maken met 50 gram boter en 3/4 tl kruidenboterpoeder."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

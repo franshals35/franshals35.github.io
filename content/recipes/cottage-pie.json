@@ -1,0 +1,93 @@
+{
+  "t": "Cottage pie",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Gehakt, runder",
+      "note": null
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Wortels",
+      "note": "1 winterpeen"
+    },
+    {
+      "amount": 1000,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": "om puree te maken"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Geraspte Kaas",
+      "note": null
+    },
+    {
+      "amount": 70,
+      "unit": "g",
+      "name": "Tomaten puree",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Tuinkruiden",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Kaneel",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Peterselie",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "Runderbouillon",
+      "note": "1/2 blokje"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Olie",
+      "note": "of \"oude\" jus"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    }
+  ],
+  "s": [
+    "Fruit de ui in de olie (jus). Voeg de gesneden wortel toe en kook dit zachtjes 10 minuten. Schil de aardappelen en kook ze. Bak de gehakt rul in het ui-wortel mengsel. Voeg aan het vlees mengsel de kruiden toe, samen met de tomatenpuree en de hete bouillon. Laat het lekker dik worden (10 min) en doe het in een ingevette ovenschaal. Maak puree van de aardappels, en doe deze over het vleesmengsel. Daarbovenop de geraspte kaas en paneermeel. Afbakken in 30 minuten op 200 graden in de oven.",
+    "Dit wordt een Sheppards pie als je lamsgehakt gebruikt."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

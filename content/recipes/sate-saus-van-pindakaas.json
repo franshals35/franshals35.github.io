@@ -1,0 +1,56 @@
+{
+  "t": "Sate saus van pindakaas",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Pindakaas",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "el",
+      "name": "Melk",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Ketjap Manis",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Gemberpoeder",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "tl",
+      "name": "Citroen sap",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Sambal",
+      "note": "mespuntje"
+    },
+    {
+      "amount": 0.25,
+      "unit": "tl",
+      "name": "Suiker",
+      "note": null
+    }
+  ],
+  "s": [
+    "Dit is voor 1 persoon, in kleine koekenpan verwarmen en mengen."
+  ],
+  "n": [],
+  "g": [
+    "salade"
+  ]
+}

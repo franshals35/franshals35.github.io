@@ -1,0 +1,69 @@
+{
+  "t": "Sardientjes pasta",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Sardientjes uit blik",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Paprika",
+      "note": "rood"
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Kappertjes",
+      "note": "goed afgespoeld"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Basilicum",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": 425,
+      "unit": "g",
+      "name": "Pasta",
+      "note": null
+    }
+  ],
+  "s": [
+    "Kook de pasta. Doe een eetlepel sardientjes olie in de koekenpan en bak daar de paprika in, en later de knoflook erbij. Voeg de tomaten toe, kruid met peper, zout en 20 min pruttelen, laatste 5 min de basilicum erbij en de bijtgrote stukken sardientjes.",
+    "Als de pasta klaar en afgegoten is, doe de saus bij de pasta, goed mengen en dan serveren met kappertjes."
+  ],
+  "n": [],
+  "g": [
+    "vis"
+  ]
+}

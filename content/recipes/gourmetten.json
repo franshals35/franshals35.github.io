@@ -1,0 +1,122 @@
+{
+  "t": "Gourmetten",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Saus",
+      "note": "Knoflook en pindasaus"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Gehakt, half-om-half",
+      "note": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Vlees",
+      "note": "shoarmavlees"
+    },
+    {
+      "amount": 5,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Saucijs",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Paprika",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Komkommer",
+      "note": "of 1 met restje salade"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Stokbrood",
+      "note": "(dubbel afbak)"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Kruidenboter",
+      "note": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Champignons",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Kippedijen",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Tomaten",
+      "note": "kerstomaatjes"
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Boter",
+      "note": "Bakboter"
+    }
+  ],
+  "s": [
+    "Gehakt zelf kruiden (met stukjes brood en een half ei) en in kleine balletjes rollen.",
+    "Aardappel in kleine blokjes snijden, en 4 minuten in de magnetron.",
+    "Kipfilet in stukjes snijden en marineren in sojasaus en Djahé.",
+    "Snij ook de: saucijs, paprika, ui, komkommer en de champignons.",
+    "Serveren met wijn, peper en zout.",
+    "Andere tips: pannenkoeken beslag.",
+    "Kruidenboter kun je ook zelf maken met 50 gram boter en 3/4 tl kruidenboterpoeder."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

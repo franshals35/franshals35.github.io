@@ -1,0 +1,49 @@
+{
+  "t": "Cruesli koekjes",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 120,
+      "unit": "g",
+      "name": "Cruesli",
+      "note": null
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Zelfrijzend bakmeel",
+      "note": "(1.2 g bakpoeder)"
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Boter",
+      "note": "blueband"
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Suiker",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Kaneel",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Cacaopoeder",
+      "note": null
+    }
+  ],
+  "s": [
+    "Alles samenkneden, in 8 koekjes verdelen, goed plat drukken op de plaat, in 15 min op 180 graden afbakken.",
+    "3.30 euro per kilo., 10 cent per koekje."
+  ],
+  "n": [],
+  "g": []
+}

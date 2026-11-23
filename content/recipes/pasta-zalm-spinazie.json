@@ -1,0 +1,62 @@
+{
+  "t": "Pasta Zalm Spinazie",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "Witte wijn",
+      "note": "of rose"
+    },
+    {
+      "amount": 200,
+      "unit": "ml",
+      "name": "Slagroom",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Zalm, gerookt",
+      "note": null
+    },
+    {
+      "amount": 750,
+      "unit": "g",
+      "name": "Spinazie",
+      "note": "diepvries, blad"
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Geraspte Kaas",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": 425,
+      "unit": "g",
+      "name": "Pasta",
+      "note": null
+    },
+    {
+      "amount": 5,
+      "unit": "st",
+      "name": "Eieren",
+      "note": "gekookt"
+    }
+  ],
+  "s": [
+    "Kook en pel 5 eieren. Laat de spinazie ontdooien (8 min magnetron). Snij de zalm in stukjes en bestrooi met peper. Kook de pasta. Breng de wijn en de room aan de kook, en laat het 5 min indikken. Voeg zalm en spinazie toe aan de het room mengsel, nog 5 min doorwarmen. Serveer met geraspte kaas."
+  ],
+  "n": [],
+  "g": [
+    "vis"
+  ]
+}

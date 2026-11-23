@@ -1,0 +1,91 @@
+{
+  "t": "Sticky Suzan",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Rijst",
+      "note": null
+    },
+    {
+      "amount": 375,
+      "unit": "g",
+      "name": "Tofu",
+      "note": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Wokgroente",
+      "note": "Chinese, vers"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Courgette",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 4,
+      "unit": "el",
+      "name": "Sweet Chili sauce",
+      "note": null
+    },
+    {
+      "amount": 4,
+      "unit": "el",
+      "name": "Sojasaus",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "el",
+      "name": "Gembersiroop",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Azijn",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Water",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Maïzena",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Seroendeng",
+      "note": null
+    }
+  ],
+  "s": [
+    "Kook de rijst",
+    "Druk het vocht uit de tofu, en snij in blokjes",
+    "Bak tofu op middelhoog vuur in 10 minuten goudbruin en krokant",
+    "Snipper de courgette.",
+    "Breng de knoflook (stukjes), sojasaus, gembersiroop, rijstazijn, chilisaus, maizena en water in een steelpan aan de kook. Laat 3 min. zachtjes koken en roer met een houten lepel tot de saus begint te binden. Schep de gebakken tofu in de saus, wok daarna de groenten. Schep daarna de rijst bij de groenten.",
+    "Serveer de rijst, wok groenten, sticky tofu en seroendeng apart."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

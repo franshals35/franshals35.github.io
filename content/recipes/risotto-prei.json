@@ -1,0 +1,68 @@
+{
+  "t": "Risotto Prei",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Risotto rijst",
+      "note": null
+    },
+    {
+      "amount": 2.5,
+      "unit": "st",
+      "name": "Prei",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Bouillonblokje",
+      "note": "groenten bouillon"
+    },
+    {
+      "amount": 200,
+      "unit": "ml",
+      "name": "Slagroom",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Nacho chips",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Geraspte Kaas",
+      "note": "Parmasan"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "l",
+      "name": "Water",
+      "note": "voor de bouillon"
+    }
+  ],
+  "s": [
+    "De prei in dunne halve ringen snijden, 5 min smoren in de boter. De risotto rijst even mee sudderen zodat de korrels glazig worden. Dan de bouillon lepel voor lepel erbij totdat de rijst niets meer op neemt (duurt 20 min). Roer dan de room erdoor, voeg (zout en) peper naar smaak toe, en serveer met geraspte Parmezaanse kaas."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

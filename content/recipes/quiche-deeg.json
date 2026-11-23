@@ -1,0 +1,40 @@
+{
+  "t": "Quiche deeg",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Bloem",
+      "note": "(kl. vorm 145)"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Boter",
+      "note": "( kl.vorm 73)"
+    },
+    {
+      "amount": 80,
+      "unit": "ml",
+      "name": "Water",
+      "note": "beetje bij beetje"
+    }
+  ],
+  "s": [
+    "Doe de bloem in een kom maak een kuiltje in het midden en doe het eigeel, de zacht gemaakte boter en de helft van het water (eiwit kun je bewaren voor de vulling van de quiche). Mix alles met de toppen van de vingers of met een houten lepel. Zorg er voor dat het deel alles goed egaal opneemt.",
+    "Maak dan van het deeg een platte bol en laat deze twee uren koel rusten.",
+    "Hierna, strooi bloem over de aanrecht en rol het deeg met een roller of fles uit. Vouw het deeg in tweeën om het gemakkelijk in een beboterde ronde bakschaal te leggen."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

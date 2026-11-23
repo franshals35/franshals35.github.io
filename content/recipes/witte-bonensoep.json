@@ -1,0 +1,87 @@
+{
+  "t": "Witte bonensoep",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Spekreepjes",
+      "note": null
+    },
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Broccoli",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Ui",
+      "note": "groot"
+    },
+    {
+      "amount": 0.125,
+      "unit": "tl",
+      "name": "Chili poeder",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Witte bonen in tomatensaus",
+      "note": "grote pot"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Bouillonblokje",
+      "note": "runder"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Soepstengels",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "-",
+      "note": "Stokbrood"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Kruidenboter",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "l",
+      "name": "Water",
+      "note": null
+    }
+  ],
+  "s": [
+    "Ui snipperen, en fruiten met chilipoeder. Knoflook erbij persen. Bonen met saus en 0.5 l water toevoegen met verkruimeld bouillonblokje. 10 minuten zachtjes laten koken. Broccoli in kleine roosjes snijden en beetgaar koken (5 min). Spekjes uitbakken in koekenpan met de peper. Bonenmengsel pureren met staafmixer, en broccoli toevoegen. Aanvullen tot 3,4 liter soep. Soep in de borden scheppen en spekjes erin strooien. Eventueel serveren met (stok-)brood.",
+    "Kruidenboter kun je ook zelf maken met 50 gram boter en 3/4 tl kruidenboterpoeder."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "t": "Wintersalade",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 0.5,
+      "unit": "st",
+      "name": "Knolselderij",
+      "note": null
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Wortels",
+      "note": "peen"
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Zilveruitjes",
+      "note": "cocktail uitjes!"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Appels",
+      "note": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Linzen",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Mandarijnen",
+      "note": "uitgelekt"
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Mosterd",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "el",
+      "name": "Honing",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Stokbrood",
+      "note": "of geroosterd brood"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Kruidenboter",
+      "note": null
+    },
+    {
+      "amount": 4,
+      "unit": "el",
+      "name": "Olie",
+      "note": null
+    }
+  ],
+  "s": [
+    "Kook de linzen 15 minuten (is genoeg voor een salade). Daarna afgieten..",
+    "Knolselderij en peen in kleine blokjes snijden,",
+    "Water laten koken in de grote pan (1.7 L), wortel en knolselderij erbij en 6 minuten op vol vuur laten staan om ze beetgaar te maken (komt niet meer aan de kook).",
+    "Helft van het sap van de zilveruitjes gebruiken voor de dressing.",
+    "Mandarijnen uitlekken, appel in stukjes.",
+    "Doe alles bij elkaar in een grote kom.",
+    "Maak met de helft van het sap van zilveruitjes een dressing met daarbij 4 el olie, 1 el mosterd, 1/2 el honing, zout en peper.",
+    "Alles goed doorscheppen en af laten koelen.",
+    "Kruidenboter kun je ook zelf maken met 50 gram boter en 3/4 tl kruidenboterpoeder."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

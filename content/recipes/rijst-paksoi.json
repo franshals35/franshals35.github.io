@@ -1,0 +1,62 @@
+{
+  "t": "Rijst Paksoi",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Rijst",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Paksoi",
+      "note": "of een chinese kool"
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Gehakt, half-om-half",
+      "note": "vegetarisch!"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Cashewnoten",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Ketjap Manis",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Kurkuma",
+      "note": null
+    }
+  ],
+  "s": [
+    "Kook de rijst gaar volgens de gebruiksaanwijzing op de verpakking. Was de paksoi en snij de groente in reepjes. Bak het gehakt rul en voeg daarna de knoflook toe. Bak de paksoi al omscheppend mee tot de groente is geslonken. Schep de ketjap, de cashewnoten en de rijst door het groentemengsel. Voeg naar smaak zout toe. De rijst kun je ook apart serveren."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

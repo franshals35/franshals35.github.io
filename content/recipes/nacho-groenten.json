@@ -1,0 +1,63 @@
+{
+  "t": "Nacho Groenten",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Bruine bonen",
+      "note": "netto gewicht"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Prei",
+      "note": null
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Wortels",
+      "note": "grof geraspt"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Geraspte Kaas",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Nacho chips",
+      "note": "2 zakken van 175 gram, naturel"
+    },
+    {
+      "amount": 4,
+      "unit": "el",
+      "name": "Mayonaise",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Mosterd",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Water",
+      "note": null
+    }
+  ],
+  "s": [
+    "Verwarm de oven voor op 200 graden.",
+    "Bonen uitlekken en afspoelen. Prei in halve ringen en kort stoven. Wortels grof hakselen in de keukenmachine met het mes onderin. Kaas raspen. Dit alles mengen in de grootste ovenschaal en 10 in in de oven. Verdeel daarna de nacho's erover, en bedek met extra kaas. Overgebleven chips appart erbij serveren. Nogmaals 10 min in de oven op 200 graden. Meng het water, de mosterd en mayo voor de dip."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

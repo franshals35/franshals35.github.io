@@ -1,0 +1,61 @@
+{
+  "t": "Mosselen",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 2,
+      "unit": "kg",
+      "name": "Mosselen",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Soepgroenten",
+      "note": "2 uien, 1 winterwortel, 1 prei, selderij"
+    },
+    {
+      "amount": 600,
+      "unit": "ml",
+      "name": "Bier",
+      "note": "1 flesje"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Saus",
+      "note": "cocktailsaus"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Komkommer",
+      "note": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "kg",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Vissticks",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snij aardappel in blokjes en maak ze beetgaar in de magnetron, later op te bakken.",
+    "Maak met de komkommer salade (ook in dit recepten boek)",
+    "Mosselen goed onder koud stromend water afspoelen. Geopende mosselen met bolle kant tegen aanrecht tikken. Als mossel niet sluit, deze weggooien.",
+    "In de mosselpan het bier gieten en de groenten 5 minuten koken (peper en zout naar smaak). Mosselen toevoegen en maximaal 5 minuten afgedekt koken tot alle schelpen open zijn. Tussentijds pan even goed omschudden.",
+    "Serveer met cocktail saus en schijfjes komkommer.",
+    "Serveer met het Belgisch bier of witte wijn (Pinot blanc)."
+  ],
+  "n": [],
+  "g": [
+    "vis"
+  ]
+}

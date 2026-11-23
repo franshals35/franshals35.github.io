@@ -1,0 +1,89 @@
+{
+  "t": "Lunch wraps",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Wraptortilla",
+      "note": "een pak met 6 grote wraps"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Sla",
+      "note": "200 g"
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Kerstomaatjes",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Komkommer",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Eieren",
+      "note": "gekookt"
+    },
+    {
+      "amount": 125,
+      "unit": "g",
+      "name": "Boursin",
+      "note": "of een andere roomkaas"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Tonijn uit blik",
+      "note": "water"
+    },
+    {
+      "amount": 0.5,
+      "unit": "st",
+      "name": "Ui",
+      "note": "zeer fijn gesnipperd"
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Augurk",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Mayonaise",
+      "note": null
+    }
+  ],
+  "s": [
+    "Maak 3 wraps met elk:",
+    "bestrijk met 1/3 roomkaas",
+    "1 ei in plakjes",
+    "3 kerstomaatje door de helft",
+    "1 augurk in lange plakjes",
+    "2 blaadjes sla",
+    "vouwen/rollen en doormidden snijden",
+    "Maak nogmaals 3 wraps met elk:",
+    "Tonijn",
+    "Mayo erop",
+    "1 theelepel zeer fijn gesnipperd ui",
+    "4 plakjes komkommer",
+    "3 kerstomaatje door de helft",
+    "2 blaadjes sla",
+    "vouwen/rollen en doormidden snijden"
+  ],
+  "n": [],
+  "g": [
+    "vega",
+    "vis"
+  ]
+}

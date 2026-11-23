@@ -1,0 +1,76 @@
+{
+  "t": "CHV pasta",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Venkelknol",
+      "note": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Champignons",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Courgette",
+      "note": null
+    },
+    {
+      "amount": 330,
+      "unit": "g",
+      "name": "Pasta",
+      "note": "Han vind het minder lekker"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "Crème Fraîche",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Miso",
+      "note": "witte"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Geraspte Kaas",
+      "note": "parmezaan"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Oregano",
+      "note": null
+    }
+  ],
+  "s": [
+    "Fruit de gesnipperde ui met de gedroogde oregano.",
+    "Snij de champignons in dikke plakken en bak flink aan.",
+    "Snijd vervolgens de venkel in dunne reepjes en de courgette in blokjes, en voeg deze toe aan de pan.",
+    "Kook de pasta.",
+    "Meng in een schaaltje met wat pastakookwater 2 el miso en de creme fraiche. Voeg dit de laatste 5 min toe aan het groentenmengsel.",
+    "Voeg de gekookte pasta toe en werk af met gemalen peper.",
+    "Serveer met wat geraspte parmezaan."
+  ],
+  "n": [
+    "Charlotte Harbers Pasta - of CHampignons Venkel Pasta"
+  ],
+  "g": [
+    "vega"
+  ]
+}

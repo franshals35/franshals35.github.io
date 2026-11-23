@@ -1,0 +1,99 @@
+{
+  "t": "Vleespasteitjes",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Gehakt, runder",
+      "note": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Meiraap",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 75,
+      "unit": "g",
+      "name": "Rozijnen",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 140,
+      "unit": "g",
+      "name": "Tomaten puree",
+      "note": null
+    },
+    {
+      "amount": 230,
+      "unit": "g",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Boter",
+      "note": null
+    },
+    {
+      "amount": 100,
+      "unit": "ml",
+      "name": "Water",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Italiaanse kruiden",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    }
+  ],
+  "s": [
+    "Het deeg.",
+    "Boter in de schaal en even verwarmen om het zacht te maken. Bloem, eiwit en water toevoegen en het geheel kneden met een houten lepel. Deeg 2-24 uur laten rusten in koelkast (dan wordt het wat steviger).",
+    "De vulling",
+    "Wel de rozijnen in een bakje heet water. Snij de meiraap en de ui in kleine stukjes. Gehakt kruiden met zout en peper. Fruit de ui, en later de knoflook. Bak het gehakt erbij rul. Doe de meiraap, de rozijnen, de Italiaanse kruiden, en de tomatenpuree erbij, en laat het even sudderen.",
+    "Verdeel het deeg in 6 stukjes, rol elk stuk uit op bakpapier en vul met het gehakt mengel, daarna dichtvouwen. Bestrijken met de losgeklopte eidooier. In 25 minuten afbakken in de oven op 190 graden.",
+    "Ook koud te serveren."
+  ],
+  "n": [
+    "[Extracted image: /home/user/tool-results/ocr/a09b2e3e-0f58-46df-963c-592b1add9a8c/images/001-015-img-14.jpeg]"
+  ],
+  "g": [
+    "vlees"
+  ]
+}

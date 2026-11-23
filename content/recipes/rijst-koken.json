@@ -1,0 +1,27 @@
+{
+  "t": "Rijst koken",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 333,
+      "unit": "g",
+      "name": "Rijst",
+      "note": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "l",
+      "name": "Water",
+      "note": null
+    }
+  ],
+  "s": [
+    "Kook het water in de water koker, en doe in een pan. Giet bij de zilvervlies rijst en laat 10 minuten koken. Dan afgieten en nog 10 min warm wegzetten",
+    "100g wordt 380 g, 260 g wordt 1000 g."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "t": "Pasta Haring",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Haring, gerookt",
+      "note": null
+    },
+    {
+      "amount": 425,
+      "unit": "g",
+      "name": "Pasta",
+      "note": "penne"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Paprika",
+      "note": "rood"
+    },
+    {
+      "amount": 750,
+      "unit": "g",
+      "name": "Doperwten",
+      "note": "diepvries tuinerwten"
+    },
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "Crème Fraîche",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "tl",
+      "name": "Oregano",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snipper de ui, knoflook en paprika.",
+    "Kook de pasta",
+    "Fruit de ui, de knoflook en de paprika.",
+    "Voeg de doperwten toe en laat goed doorwarmen.",
+    "Haal het vel van de haring, en snij in stukken.",
+    "Laatste 5 min de oregano, haring en creme fraiche toevoegen.",
+    "Peper naar smaak."
+  ],
+  "n": [],
+  "g": [
+    "vis"
+  ]
+}

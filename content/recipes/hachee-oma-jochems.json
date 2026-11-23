@@ -1,0 +1,87 @@
+{
+  "t": "Hachee - Oma Jochems",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Ui",
+      "note": "gesnipperd"
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Runderpoulet",
+      "note": "Hachee vlees"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Bouillonblokje",
+      "note": "400 ml water"
+    },
+    {
+      "amount": 150,
+      "unit": "ml",
+      "name": "Rode wijn",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Laurierblaadjes",
+      "note": "verse: inknippen"
+    },
+    {
+      "amount": 5,
+      "unit": "st",
+      "name": "Kruidnagels",
+      "note": null
+    },
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Peper",
+      "note": "korrels"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Rode kool",
+      "note": "gewoon een pot."
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Maïzena",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Tijm",
+      "note": null
+    }
+  ],
+  "s": [
+    "Dep het vlees droog met keukenpapier, en smeer in met bloem. Dan het vlees flink aanbraden, daarna met de gesnipperde ui erbij.",
+    "Schenk het water en de wijn bij het vlees met het bouillon blokje.",
+    "Het laurierblad erbij doen.",
+    "Doe de kruidnagelen, tijm en de peperkorrels in een thee-ei en hang dit in de pan.",
+    "Het geheel 4 uur laten sudderen.",
+    "Kruiden verwijderen.",
+    "Het vocht binden met wat bloem/maizena.",
+    "Maak van de aardappels een puree. Serveren met rode kool en een appel."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

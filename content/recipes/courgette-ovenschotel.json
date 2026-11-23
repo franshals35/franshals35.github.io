@@ -1,0 +1,82 @@
+{
+  "t": "Courgette ovenschotel",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Gehakt, runder",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Courgette",
+      "note": null
+    },
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "ml",
+      "name": "Slagroom",
+      "note": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Geraspte Kaas",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Italiaanse kruiden",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Maïzena",
+      "note": null
+    }
+  ],
+  "s": [
+    "Gehakt in olijfolie rul bakken. Tomaten met vocht, zout en peper en knoflook toevoegen en op zacht vuur in open pan 8-10 minuten laten pruttelen. Courgette, room en kruiden toevoegen en mengsel nog 10 minuten laten stoven. Op het eind binden met maizena. Aardappelen in plakjes snijden en in water met zout 8 minuten koken (magnetron 10 minuten).",
+    "Oven voorverwarmen op 200 graden celcius. Ovenschaal invetten en vullen met gehaktmengsel en aardappelen. Kaas erover strooien.",
+    "Gerecht 30 minuten in oven."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

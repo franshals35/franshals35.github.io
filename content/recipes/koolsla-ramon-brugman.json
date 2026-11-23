@@ -1,0 +1,56 @@
+{
+  "t": "Koolsla Ramon Brugman",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 280,
+      "unit": "g",
+      "name": "Witte kool",
+      "note": "1/4 kool"
+    },
+    {
+      "amount": 4,
+      "unit": "el",
+      "name": "Azijn",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "el",
+      "name": "Yoghurt",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "st",
+      "name": "Bieslook",
+      "note": "half bosje"
+    },
+    {
+      "amount": 1.5,
+      "unit": "el",
+      "name": "Suiker",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    }
+  ],
+  "s": [
+    "Doe de gesneden kool in een kom. Voeg de azijn, suiker en wat zout toe. Masseer de kool en laat het 10 minuten staan. Voeg dan de yoghurt toe en snijd de bieslook fijn. Roer alles goed door elkaar, en laat 30 minuten laat staan. Roer het om voor je het serveert."
+  ],
+  "n": [],
+  "g": [
+    "salade"
+  ]
+}

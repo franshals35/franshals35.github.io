@@ -1,0 +1,61 @@
+{
+  "t": "Monchou taart",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Klopvast",
+      "note": null
+    },
+    {
+      "amount": 240,
+      "unit": "g",
+      "name": "Bastognekoeken",
+      "note": "Let op notenfabriek koek"
+    },
+    {
+      "amount": 140,
+      "unit": "g",
+      "name": "Boter",
+      "note": "Blue band"
+    },
+    {
+      "amount": 0.25,
+      "unit": "l",
+      "name": "Slagroom",
+      "note": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Monchou",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "g",
+      "name": "Suiker",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Vlaaivulling",
+      "note": "zo'n blik"
+    }
+  ],
+  "s": [
+    "Vet de 26 cm springvorm in, leg op de bodem een bakpapiertje.",
+    "De koeken heel fijn raspen met de keuken machine.",
+    "Boter smelten en mengen met de koekkruimels. Dit in de springvorm drukken met een lepel, en laten opstijven in de koelkast.",
+    "Slagroom met klopvast (zonder suiker) stijf kloppen.",
+    "Monchou met de suiker schuimig kloppen en daarbij de slagroom mengen.",
+    "Dit mengsel glad verdelen in de springvorm.",
+    "Daarbovenop de vlaaivulling verdelen.",
+    "Enkele uren in de koelkast laten opstijven."
+  ],
+  "n": [],
+  "g": []
+}

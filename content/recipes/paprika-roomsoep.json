@@ -1,0 +1,51 @@
+{
+  "t": "Paprika roomsoep",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 5,
+      "unit": "st",
+      "name": "Paprika",
+      "note": "rood"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "el",
+      "name": "Olie",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "tl",
+      "name": "Paprikapoeder",
+      "note": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Smeerkaas",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Bouillonblokje",
+      "note": null
+    }
+  ],
+  "s": [
+    "Ui pellen en snipperen. Paprika's wassen en in stukjes snijden. In soeppan de ui fruiten, en de paprika meebakken. Paprikapoeder, 5 dl water, smeerkaas en bouillonblokje toevoegen en nog 10 minuten zachtjes laten koken. Soep pureren en door zeef wrijven.",
+    "Serveren met croutons. Is ongeveer 1.2 L soep"
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

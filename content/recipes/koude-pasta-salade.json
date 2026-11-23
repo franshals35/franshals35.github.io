@@ -1,0 +1,70 @@
+{
+  "t": "Koude pasta salade",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Salamiplakken",
+      "note": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Broccoli",
+      "note": null
+    },
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Eieren",
+      "note": "gekookt, of feta kaas met olijven"
+    },
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Tomaten",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Mosterd",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Rozemarijn",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "el",
+      "name": "Olie",
+      "note": "Olijf"
+    },
+    {
+      "amount": 2,
+      "unit": "tl",
+      "name": "Azijn",
+      "note": "Wijnazijn"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Pasta",
+      "note": "fusili"
+    }
+  ],
+  "s": [
+    "Bereiding (liefst 1 dag van tevoren):",
+    "Meng de olijfolie, wijnazijn, mosterd en rozemarijn met elkaar en laat dit minstens een uur staan.",
+    "Kook de pasta volgens de gebruiksaanwijzing. Kook de broccoli gaar (niet te). Snij de salami worst, de tomaten en de feta kaas (of eieren) kleine stukjes. Verdeel de olijven in vieren. Meng alle bestandsdelen met elkaar in een grote schaal. Laat dit enkele uren in de koelkast afkoelen."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

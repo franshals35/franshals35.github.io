@@ -1,0 +1,56 @@
+{
+  "t": "Broodsalade ciabatta tomaatjes",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Mozzerela",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Boterhammen",
+      "note": "ciabatta afbakbrood"
+    },
+    {
+      "amount": 1000,
+      "unit": "g",
+      "name": "Tomaten",
+      "note": "snacktomaten"
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Komkommer",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": "sjalotje"
+    },
+    {
+      "amount": 3,
+      "unit": "el",
+      "name": "Olie",
+      "note": "olijf"
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Basilicum",
+      "note": "verse"
+    }
+  ],
+  "s": [
+    "Verwarm de oven en bak het brood af. Halveer de tomaatjes, snij komkommer in blokjes, mozzerella in stukjes. Snij het sjalotje in heel dunne halve ringen. Scheur de ciabatta en meng in kom met olie en azijn. Voeg de groenten en de gescheurde basilicum toe en meng."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "t": "Griekse salade",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Paprika",
+      "note": "geel"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Komkommer",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Tomaten",
+      "note": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Feta",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Olie",
+      "note": "olijf"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Azijn",
+      "note": "wijn"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Oregano",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snij paprika en feta in stukjes, komkommer in halve rondjes, tomaten in dunne halve plakjes en de ui in heel dunne kwart ringen. Doe het in een brede schaal, besprenkel met olie, azijn, zout peper en oregano. Even doorscheppen."
+  ],
+  "n": [],
+  "g": [
+    "salade",
+    "vega"
+  ]
+}

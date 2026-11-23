@@ -1,0 +1,41 @@
+{
+  "t": "Uienstokbrood",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Stokbrood",
+      "note": "afbak turksebroden"
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Ui",
+      "note": "twee grote"
+    },
+    {
+      "amount": 20,
+      "unit": "st",
+      "name": "Kaas",
+      "note": "ongeveer 20 plakken"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Tijm",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snij de ui in kwart ringen en fruit deze met wat tijm en olie in de pan.",
+    "Snij het brood in, ook bij de randen (rond?) en vul de inkepingen met kaas en ui, de rest eroverheen.",
+    "Probeer het centrum vrij te houden, maakt het makkelijker om punten te snijden.",
+    "Bak in 15 min af in de oven op 200 graden."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

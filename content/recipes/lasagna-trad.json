@@ -1,0 +1,135 @@
+{
+  "t": "Lasagna - trad.",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 16,
+      "unit": "st",
+      "name": "Lasagna",
+      "note": "vellen"
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Gehakt, runder",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": null
+    },
+    {
+      "amount": 210,
+      "unit": "g",
+      "name": "Tomaten puree",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": "een grote"
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 10,
+      "unit": "st",
+      "name": "Kaas",
+      "note": "20 plakken, ongeveer 1 ons"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Oregano",
+      "note": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "tl",
+      "name": "Paprikapoeder",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Laurierblaadjes",
+      "note": "eentje"
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Sambal",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "tl",
+      "name": "Suiker",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Basilicum",
+      "note": "2 takjes verse"
+    },
+    {
+      "amount": 6,
+      "unit": "el",
+      "name": "Olie",
+      "note": null
+    },
+    {
+      "amount": 6,
+      "unit": "el",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Melk",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    }
+  ],
+  "s": [
+    "Bolognesesaus:",
+    "Ui en knoflook snipperen en in een grote koekenpan met wat olijfolie fruiten.",
+    "In de kleine braadpan de tomatenpuree hard verwarmen (blijf roeren, anders brandt ze aan),tot deze niet zurig meer ruikt. Het ui/knoflook/olie mengsel toevoegen.",
+    "Kruid de gehakt met zout, peper en paprika poeder.",
+    "In de grote koekenpan weer wat olijfolie verwarmen en het gehakt rullen. Daarbij het tomatenpureemengsel doen, met de gepelde tomaten en op smaak brengen met de sambal, suiker, basilicum, oregano en een laurierblaadje toevoegen. 1/2 uur op laag vuur laten sudderen, af en toe roeren.",
+    "Ondertussen de oven voorverwarmen op 190 gr. C.",
+    "Bechamelsaus:",
+    "Boter of olie smelten (niet bruin laten worden), bloem erdoor roeren en verwarmen, melk toevoegen tot je een lobbige saus hebt. Op smaak brengen met zout en peper.",
+    "In de schaal:",
+    "1/3 tomatensaus, vellen, 1/3 bechamel, plakken kaas",
+    "en dat drie keer.",
+    "Afdekken met aluminium-folie en in de oven. Na 30 min. de folie verwijderen en nog 15 min. in de oven laten. Als het \"knettert\" is het klaar."
+  ],
+  "n": [
+    "[Extracted image: /home/user/tool-results/ocr/a09b2e3e-0f58-46df-963c-592b1add9a8c/images/001-007-img-6.jpeg]"
+  ],
+  "g": [
+    "vlees"
+  ]
+}

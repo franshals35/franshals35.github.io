@@ -1,0 +1,58 @@
+{
+  "t": "Maaltijdsalade Farmer Style",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Champignons",
+      "note": null
+    },
+    {
+      "amount": 1000,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Ontbijtspek",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Sla",
+      "note": null
+    },
+    {
+      "amount": 6,
+      "unit": "st",
+      "name": "Boterhammen",
+      "note": "Oude (dat snijd beter)"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Olie",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Azijn",
+      "note": null
+    }
+  ],
+  "s": [
+    "Schil de aardappels en snij ze in blokjes, doe deze met een laagje water 10 min in de magnetron. Maak de champignons schoon en snij deze in plakjes. Snij de boterhammen in blokjes. Verdeel de sla over de borden, en doe hier een dressing overheen.. Bak in de eerste pan de boterhamblokjes in olijfolie tot croutons. Haal ze eruit, verdeel ze over de borden en bak daarna de aardappelblokjes in boter bruin op hoog vuur in 12 minuten. Bak in een tweede droge koekenpan het spek uit, verdeel dit ook over de borden. Bak in het restant spekvet de champignons. Verdeel de champignons en de aardappels over de borden en serveer."
+  ],
+  "n": [
+    "[Extracted image: /home/user/tool-results/ocr/a09b2e3e-0f58-46df-963c-592b1add9a8c/images/001-008-img-7.jpeg]"
+  ],
+  "g": [
+    "vlees"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "t": "Pepernoten",
+  "b": 2,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 2,
+      "unit": "tl",
+      "name": "Speculaaskruiden",
+      "note": "afgestreken lepels"
+    },
+    {
+      "amount": 70,
+      "unit": "g",
+      "name": "Zelfrijzend bakmeel",
+      "note": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Roomboter",
+      "note": null
+    },
+    {
+      "amount": 40,
+      "unit": "g",
+      "name": "Bruine suiker",
+      "note": null
+    },
+    {
+      "amount": 3,
+      "unit": "tl",
+      "name": "Melk",
+      "note": "niet meer!"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    }
+  ],
+  "s": [
+    "Boter zacht maken (niet smelten) in een kom. Voeg kruiden, meel en suiker toe en meng alles goed met een houten lepel. Vorm daarna een bal met de handen. Haal uit de bal de pepernoten (grootte als kersen).",
+    "Of rol een heel dunne worst, en snij daar blokjes uit die je vervolgens als een bol rolt. Let op, kleine bolletjes maken, want de noten groeien in de oven nog.",
+    "Leg die op bakpapier op een bakplaat. Doe ze 20 min in de oven op 160 graden."
+  ],
+  "n": [],
+  "g": []
+}

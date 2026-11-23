@@ -1,0 +1,77 @@
+{
+  "t": "Gepofte aardappelen",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 5,
+      "unit": "st",
+      "name": "Aardappels",
+      "note": "pof aardappelen gelijke grootte"
+    },
+    {
+      "amount": 650,
+      "unit": "g",
+      "name": "Champignons",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Bosui",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "Crème Fraîche",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Suiker",
+      "note": "bruine bastard"
+    },
+    {
+      "amount": 1.5,
+      "unit": "el",
+      "name": "Sojasaus",
+      "note": null
+    },
+    {
+      "amount": 10,
+      "unit": "st",
+      "name": "Kaas",
+      "note": "plakken"
+    }
+  ],
+  "s": [
+    "Snipper de ui en knoflook. Champignons in vieren snijden. Harde stukken van de bosui fijn snijden.",
+    "Boen de aardappels schoon en maak ze droog met een schone theedoek.",
+    "Bak de chamignons hard aan in half olie half boter. Voeg daarna de ui en knoflook toe om te fruiten. Daarna de bosui toevoegen. Doe op lager vuur de sojasaus en bastard suiker erbij en laat het carameliseren.",
+    "Doe de aardappels in een (glazen) schaal en de magnetron op vol vermogen 7 minuten.",
+    "Omdraaien en opnieuw 7 min vol vermogen.",
+    "Check op gaarheid door erin te prikken, waarschijnlijk nogmaals 7 min.",
+    "Als ze gaar zijn: omwikkelen met alu folie (kunnen ze nagaren), kruisllings insnijden, beetje loswoelen, champignon mengsel erin verdelen, plak kaas erop en 3 minuten onder gril (220) om te gratineren",
+    "Maak de creme fraiche lobbig met 2 el water en een kwart van de fijn gesneden bosui.",
+    "Snij de rest van de bosui in ringen.",
+    "Bedek de aardappels met de creme fraiche en de bosui ringen."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "t": "Zuurkool stamppot",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Spekjes, gerookt",
+      "note": null
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Zuurkool",
+      "note": null
+    },
+    {
+      "amount": 1000,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": 70,
+      "unit": "g",
+      "name": "Rozijnen",
+      "note": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "l",
+      "name": "Perzik uit blik",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Mosterd",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Nootmuskaat",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Melk",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snipper en fruit de ui. Doe daar de zuurkool, de rozijnen en een beetje water in. Laat dit 30 minuten stomen. Bak zachtjes de spekjes uit. Kook de aardappels gaar.",
+    "Stamp de aardappels met het spekvet, de mosterd, zout, peper en nootmuskaat, en een beetje melk.",
+    "Stamp daarna de afgegoten zuurkool erdoor, en schep de spekjes en perzik als laatste erdoorheen."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

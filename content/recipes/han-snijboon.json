@@ -1,0 +1,68 @@
+{
+  "t": "Han Snijboon",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 4,
+      "unit": "st",
+      "name": "Saucijs",
+      "note": "Runder"
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Snijbonen",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "g",
+      "name": "Spekreepjes",
+      "note": null
+    },
+    {
+      "amount": 700,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peterselie",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Peper",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Olie",
+      "note": "zonnebloem"
+    }
+  ],
+  "s": [
+    "Schil de aardappels snij in kleine stukjes, maak in 5 minuten beetgaar met een beetje water in magnetron. Was de snijbonen en snij in ruitjes. Snipper de ui. Verhit olie in stoofpan, bak daarin 5 minuten de saucijzen. Haal de saucijzen eruit, en bak in dezelfde olie de spekjes uit met wat peper. Op het laatst ook de gesnipperde ui erbij. Voeg de snijbonen toe en leg de saucijzen er bovenop. Voeg 80 ml water toe, en laat met een deksel op de pan 10 minuten stoven. Bak in een andere pan in 8 minuten de aardappels op, met een beetje zout. Voor serveren de aardappeltjes met peterselie bestrooien."
+  ],
+  "n": [],
+  "g": [
+    "vlees"
+  ]
+}

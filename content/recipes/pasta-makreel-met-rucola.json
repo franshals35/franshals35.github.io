@@ -1,0 +1,62 @@
+{
+  "t": "Pasta makreel met rucola",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Makreel",
+      "note": "gerookte"
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Sla",
+      "note": "zakje rucola"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Tuinkruiden",
+      "note": null
+    },
+    {
+      "amount": 425,
+      "unit": "g",
+      "name": "Pasta",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snipperde ui en pel de knoflook. De ui zachtjes bakken tot ze glazig ziet (5 min). Op het eind de knoflook erbij.",
+    "Voeg de tomaten uit blik toe met de tuinkruiden en laat 15-20 minuten sudderen om in te dikken.",
+    "Haal het vel van de makreel en verwijder alle graten.",
+    "Kook de pasta 9 min.",
+    "Als de saus klaar is, deze mengen met de makreel.",
+    "Vervolgens de pasta erdoor scheppen en als laatste de rucola erdoor scheppen.",
+    "Serveren met parmezaanse kaas."
+  ],
+  "n": [],
+  "g": [
+    "vis"
+  ]
+}

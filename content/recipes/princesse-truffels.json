@@ -1,0 +1,47 @@
+{
+  "t": "Princesse truffels",
+  "b": 4,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 80,
+      "unit": "g",
+      "name": "Poedersuiker",
+      "note": "meer indien nodig"
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Citroen sap",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Water",
+      "note": null
+    },
+    {
+      "amount": 6,
+      "unit": "st",
+      "name": "Pepermuntjes",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "g",
+      "name": "Chocolade",
+      "note": "puur, >70%"
+    }
+  ],
+  "s": [
+    "Verpulver de pepermuntjes (ijzeren opscheplepel, en tussen een keukenpapiertje, in de garage op een plank).",
+    "Gebruik 1 tl citroensap en 1 tl water om 80 gram poedersuiker te mengen met een lepel tot een dik deeg. Voeg poedersuiker toe om het vaster te maken indien nodig.",
+    "Rol het tot een dunne worst zodat je er kleine bolletjes van kunt draaien (kleiner dan een knikker, ze zijn al gauw te groot!)",
+    "Smelt de chocolade. Dip de snoepjes voor de helft in de chocolade en leg ze op de bakpapier/bakplaat (vork om uit te lekken, lepel om af te glijden op het bakpapier). Laat het in de koelkast weer stollen."
+  ],
+  "n": [
+    "Pepermunt fondant"
+  ],
+  "g": []
+}

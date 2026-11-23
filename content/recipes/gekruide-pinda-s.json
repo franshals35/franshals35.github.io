@@ -1,0 +1,66 @@
+{
+  "t": "Gekruide pinda's",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Pinda's",
+      "note": "ongezouten"
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Bruine suiker",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Paprikapoeder",
+      "note": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "tl",
+      "name": "Chili poeder",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Komijn, gemalen",
+      "note": "djinten"
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Knoflook",
+      "note": "poeder"
+    },
+    {
+      "amount": 2,
+      "unit": "tl",
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "el",
+      "name": "Olie",
+      "note": null
+    }
+  ],
+  "s": [
+    "mei 2026",
+    "100g",
+    "1/2 tl paprika, komijn, knoflook.",
+    "1/4 tl zout",
+    "geen chili"
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

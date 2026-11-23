@@ -1,0 +1,70 @@
+{
+  "t": "Stroopwafels",
+  "b": 20,
+  "c": "gebak",
+  "i": [
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Bloem",
+      "note": null
+    },
+    {
+      "amount": 125,
+      "unit": "g",
+      "name": "Roomboter",
+      "note": null
+    },
+    {
+      "amount": 75,
+      "unit": "g",
+      "name": "Suiker",
+      "note": "Witte basterdsuiker"
+    },
+    {
+      "amount": 7,
+      "unit": "g",
+      "name": "Gist",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Eieren",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Kaneel",
+      "note": null
+    },
+    {
+      "amount": 240,
+      "unit": "g",
+      "name": "Stroop",
+      "note": null
+    },
+    {
+      "amount": 140,
+      "unit": "g",
+      "name": "Suiker",
+      "note": "Bruine basterdsuiker"
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Roomboter",
+      "note": null
+    }
+  ],
+  "s": [
+    "Maak een scheutje melk lauwwarm en laat de gist daarin in 10 minuten oplossen. Verwarm de boter een beetje en voeg de witte suiker, de bloem, het kaneel en het ei toe. Daarbij ook de opgeloste gist. Nu goed kneden. Het deeg een uur wegzetten bij kamertemperatuur om te laten rijzen.",
+    "Doe de stroop, bruine suiker en roomboter in een steelpannetje en laat in 10-15 minuten de suiker erin oplossen (niet laten koken).",
+    "Het deeg opnieuw kneden en in pingpongballen maken. De Cloer op stand 5. Het balletje deeg in het wafelijzer, en heel zachtjes dichtdrukken. Iets te hard drukken resulteert in een plat kantje wat niet meer open te snijden is. Gebruik anders een stukje van een lange satestok om aan 1 kant de Cloer wat open te houden (een tandenstoker was te dun daarvoor).",
+    "Na het signaal van de Cloer de wafel er snel uithalen, horizontaal doormidden snijden en vullen met de stroop.",
+    "Bovenstaande hoeveelheid geeft ongeveer 20 koeken."
+  ],
+  "n": [],
+  "g": []
+}

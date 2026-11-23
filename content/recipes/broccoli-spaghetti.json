@@ -1,0 +1,77 @@
+{
+  "t": "Broccoli spaghetti",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Broccoli",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Olie",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Basilicum",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Oregano",
+      "note": null
+    },
+    {
+      "amount": 333,
+      "unit": "g",
+      "name": "Pasta",
+      "note": "spaghetti"
+    },
+    {
+      "amount": 0.5,
+      "unit": "st",
+      "name": "Bouillonblokje",
+      "note": null
+    },
+    {
+      "amount": 0.125,
+      "unit": "tl",
+      "name": "Ve-Tsin",
+      "note": null
+    }
+  ],
+  "s": [
+    "Snipper en fruit de ui (4 min). Snij de broccoli in kleine roosjes. Dan tomaten met sap toevoegen en in stukjes knijpen. Voeg de broccoli, een scheut balsamico azijn, 1/2 bouillon blokje, 1/8 tl ve-tsin en een theelepel suiker toe. Laat in 20 min indikken",
+    "Voeg basilicum en oregano naar smaak toe.",
+    "Kook de spaghetti zoals staat aangegeven op het pak.",
+    "Serveren met geraspte kaas."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

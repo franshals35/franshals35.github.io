@@ -1,0 +1,62 @@
+{
+  "t": "Selderij Steak met gebakken aardappels",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Knolselderij",
+      "note": null
+    },
+    {
+      "amount": 1500,
+      "unit": "g",
+      "name": "Aardappels",
+      "note": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "tl",
+      "name": "Zout",
+      "note": null
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Paprikapoeder",
+      "note": "gerookte"
+    },
+    {
+      "amount": 0.5,
+      "unit": "tl",
+      "name": "Knoflook",
+      "note": "poeder"
+    },
+    {
+      "amount": 1,
+      "unit": "tl",
+      "name": "Tijm",
+      "note": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "tl",
+      "name": "Peper",
+      "note": "witte"
+    }
+  ],
+  "s": [
+    "Schil de aardappelen, snij in blokjes en doe 15 min in de magnetron.",
+    "Verwarm oven voor op 200 graden.",
+    "Snij de knolselderij in 5 plakken van 1,5-2 cm (rest invriezen voor bijv. erwtensoep). Snij de schil van de plakken af.",
+    "Maak een mengsel van de kruiden (tijm, rozemarijn), olie (3 el), gerookte paprikapoeder, geperste knoflook, zout en peper, en smeer de plakken daarmee aan beide kanten in.",
+    "Leg de plakken op een bakplaat in het midden van de oven, en bak 40 min (halverwege omkeren).",
+    "Bak de aardappels in 18 min goudbruin.",
+    "Serveer met koolsla van Ramon."
+  ],
+  "n": [],
+  "g": [
+    "vega"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "t": "Pasta vis",
+  "b": 5,
+  "c": "maaltijd",
+  "i": [
+    {
+      "amount": 425,
+      "unit": "g",
+      "name": "Pasta",
+      "note": "penne"
+    },
+    {
+      "amount": 1,
+      "unit": "st",
+      "name": "Ui",
+      "note": null
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Knoflook",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Olie",
+      "note": null
+    },
+    {
+      "amount": 45,
+      "unit": "g",
+      "name": "Ansjovis",
+      "note": null
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Makreel",
+      "note": "2 blikjes"
+    },
+    {
+      "amount": 2,
+      "unit": "st",
+      "name": "Gepelde Tomaten",
+      "note": null
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Kerstomaatjes",
+      "note": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Basilicum",
+      "note": null
+    }
+  ],
+  "s": [
+    "Laat ansjovis en makreel uitlekken. Gebruik een gedeelte van de olie om in te bakken.",
+    "Fruit de ui, de knoflook en de fijngehakt ansjovis",
+    "Gepelde tomaten erbij, stuk hakken en 20 min laten pruttelen.",
+    "Kook de pasta, halveer de kerstomaten.",
+    "Laatste 5 min: basilicum, makreel en kers tomaten erdoor. Proef en breng op smaak met peper."
+  ],
+  "n": [],
+  "g": [
+    "vis"
+  ]
+}
