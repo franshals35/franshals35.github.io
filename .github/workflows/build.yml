@@ -14,21 +14,43 @@ jobs:
           if [ -z "$(ls content/recipes 2>/dev/null)" ]; then
             sudo apt-get update >/dev/null 2>&1 && sudo apt-get install -y jq >/dev/null 2>&1
             mkdir -p content/recipes
-            node -e '
-              const fs = require("fs");
-              const html = fs.readFileSync("index.html", "utf8");
-              const start = html.indexOf("let RECIPES = [") + 15;
-              const end = html.indexOf("];", start);
-              const data = JSON.parse(html.slice(start, end + 1));
-              const slugify = s => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
-              for (const r of data) {
-                fs.writeFileSync("content/recipes/" + slugify(r.t) + ".json", JSON.stringify(r, null, 2));
+            node << 'EOF'
+            const fs = require("fs");
+            const html = fs.readFileSync("index.html", "utf8");
+            const begin = html.indexOf("RECIPES = [") ;
+            if (begin < 0) { console.error("Merktuur RECIPES = [ niet gevonden"); process.exit(1); }
+            const start = begin + "RECIPES = [".length - 1;
+            const endIdx = html.indexOf("}];", start);
+            if (endIdx < 0) { console.error("Merktuur }]; niet gevonden"); process.exit(1); }
+            const frag = html.slice(start, endIdx + 3);
+            console.error("Fragment vanaf:", frag.slice(0, 60));
+            console.error("Fragmentlengte:", frag.length);
+            let data;
+            try {
+              data = JSON.parse(frag);
+            } catch (e) {
+              console.error("JSON-fout:", e.message);
+              const m = String(e.message).match(/position (\d+)/);
+              if (m) {
+                const p = parseInt(m[1], 10);
+                console.error("---- FOUT-POSITIE ----");
+                console.error(frag.slice(Math.max(0, p - 150), p + 150));
+                console.error("---- EIND FOUT-POSITIE ----");
               }
-            '
-            echo "Seeded $(ls content/recipes | wc -l) recepten"
+              process.exit(1);
+            }
+            const slugify = s => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+            for (const r of data) {
+              fs.writeFileSync("content/recipes/" + slugify(r.t) + ".json", JSON.stringify(r, null, 2));
+            }
+            console.error("OK, recepten geschreven:", data.length);
+            EOF
+            mkdir -p content/recipes
+            echo "Aantal bestanden: $(ls content/recipes 2>/dev/null | wc -l)"
           fi
       - name: Recepten bundelen
         run: |
+          ls content/recipes/*.json >/dev/null 2>&1 || { echo "GEEN receptbestanden"; exit 1; }
           for f in content/recipes/*.json; do jq -S 'del(.slug)' "$f"; done | jq -s '.' > recipes.json
       - name: Vastleggen
         uses: stefanzweifel/git-auto-commit-action@v5
