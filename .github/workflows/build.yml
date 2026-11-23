@@ -1,0 +1,36 @@
+name: build
+on:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recepten laden uit index.html (eerste keer)
+        run: |
+          if [ -z "$(ls content/recipes 2>/dev/null)" ]; then
+            sudo apt-get update >/dev/null 2>&1 && sudo apt-get install -y jq >/dev/null 2>&1
+            mkdir -p content/recipes
+            node -e '
+              const fs = require("fs");
+              const html = fs.readFileSync("index.html", "utf8");
+              const start = html.indexOf("let RECIPES = [") + 15;
+              const end = html.indexOf("];", start);
+              const data = JSON.parse(html.slice(start, end + 1));
+              const slugify = s => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+              for (const r of data) {
+                fs.writeFileSync("content/recipes/" + slugify(r.t) + ".json", JSON.stringify(r, null, 2));
+              }
+            '
+            echo "Seeded $(ls content/recipes | wc -l) recepten"
+          fi
+      - name: Recepten bundelen
+        run: |
+          for f in content/recipes/*.json; do jq -S 'del(.slug)' "$f"; done | jq -s '.' > recipes.json
+      - name: Vastleggen
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Recepten opnieuw gebouwd [skip ci]"
