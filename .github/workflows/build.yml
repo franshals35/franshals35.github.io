@@ -14,39 +14,33 @@ jobs:
           if [ -z "$(ls content/recipes 2>/dev/null)" ]; then
             sudo apt-get update >/dev/null 2>&1 && sudo apt-get install -y jq >/dev/null 2>&1
             mkdir -p content/recipes
-            node << 'EOF'
-            const fs = require("fs");
-            const html = fs.readFileSync("index.html", "utf8");
-            const begin = html.indexOf("RECIPES = [") ;
-            if (begin < 0) { console.error("Merktuur RECIPES = [ niet gevonden"); process.exit(1); }
-            const start = begin + "RECIPES = [".length - 1;
-            const endIdx = html.indexOf("}];", start);
-            if (endIdx < 0) { console.error("Merktuur }]; niet gevonden"); process.exit(1); }
-            const frag = html.slice(start, endIdx + 3);
-            console.error("Fragment vanaf:", frag.slice(0, 60));
-            console.error("Fragmentlengte:", frag.length);
-            let data;
-            try {
-              data = JSON.parse(frag);
-            } catch (e) {
-              console.error("JSON-fout:", e.message);
-              const m = String(e.message).match(/position (\d+)/);
-              if (m) {
-                const p = parseInt(m[1], 10);
-                console.error("---- FOUT-POSITIE ----");
-                console.error(frag.slice(Math.max(0, p - 150), p + 150));
-                console.error("---- EIND FOUT-POSITIE ----");
-              }
-              process.exit(1);
-            }
-            const slugify = s => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
-            for (const r of data) {
-              fs.writeFileSync("content/recipes/" + slugify(r.t) + ".json", JSON.stringify(r, null, 2));
-            }
-            console.error("OK, recepten geschreven:", data.length);
-            EOF
-            mkdir -p content/recipes
-            echo "Aantal bestanden: $(ls content/recipes 2>/dev/null | wc -l)"
+            cat > seed.b64 << 'B64'
+Y29uc3QgZnMgPSByZXF1aXJlKCJmcyIpOwpjb25zdCBodG1sID0gZnMucmVhZEZpbGVTeW5jKCJp
+bmRleC5odG1sIiwgInV0ZjgiKTsKY29uc3QgYmVnaW4gPSBodG1sLmluZGV4T2YoIlJFQ0lQRVMg
+PSBbIik7CmlmIChiZWdpbiA8IDApIHsgY29uc29sZS5lcnJvcigiTWVya3Rla2VuIFJFQ0lQRVMg
+PSBbIG5pZXQgZ2V2b25kZW4iKTsgcHJvY2Vzcy5leGl0KDEpOyB9CmNvbnN0IHN0YXJ0ID0gYmVn
+aW4gKyAiUkVDSVBFUyA9ICIubGVuZ3RoOwpjb25zdCBlbmRJZHggPSBodG1sLmluZGV4T2YoIn1d
+OyIsIHN0YXJ0KTsKaWYgKGVuZElkeCA8IDApIHsgY29uc29sZS5lcnJvcigiTWVya3Rla2VuIH1d
+OyBuaWV0IGdldm9uZGVuIik7IHByb2Nlc3MuZXhpdCgxKTsgfQpjb25zdCBmcmFnID0gaHRtbC5z
+bGljZShzdGFydCwgZW5kSWR4ICsgMyk7CmNvbnNvbGUuZXJyb3IoIkZyYWdtZW50IHZhbmFmOiIs
+IGZyYWcuc2xpY2UoMCwgNjApKTsKY29uc29sZS5lcnJvcigiRnJhZ21lbnRsZW5ndGU6IiwgZnJh
+Zy5sZW5ndGgpOwpsZXQgZGF0YTsKdHJ5IHsKICBkYXRhID0gSlNPTi5wYXJzZShmcmFnKTsKfSBj
+YXRjaCAoZSkgewogIGNvbnNvbGUuZXJyb3IoIkpTT04tZm91dDoiLCBlLm1lc3NhZ2UpOwogIGNv
+bnN0IG0gPSBTdHJpbmcoZS5tZXNzYWdlKS5tYXRjaCgvcG9zaXRpb24gKFxkKykvKTsKICBpZiAo
+bSkgewogICAgY29uc3QgcCA9IHBhcnNlSW50KG1bMV0sIDEwKTsKICAgIGNvbnNvbGUuZXJyb3Io
+Ii0tLS0gRk9VVC1QT1NJVElFIC0tLS0iKTsKICAgIGNvbnNvbGUuZXJyb3IoZnJhZy5zbGljZShN
+YXRoLm1heCgwLCBwIC0gMTUwKSwgcCArIDE1MCkpOwogICAgY29uc29sZS5lcnJvcigiLS0tLSBF
+SU5EIEZPVVQtUE9TSVRJRSAtLS0tIik7CiAgfQogIHByb2Nlc3MuZXhpdCgxKTsKfQpjb25zdCBz
+bHVnaWZ5ID0gcyA9PiBzLnRvTG93ZXJDYXNlKCkucmVwbGFjZSgvW15hLXowLTldKy9nLCAiLSIp
+LnJlcGxhY2UoL14tfC0kL2csICIiKTsKZm9yIChjb25zdCByIG9mIGRhdGEpIHsKICBmcy53cml0
+ZUZpbGVTeW5jKCJjb250ZW50L3JlY2lwZXMvIiArIHNsdWdpZnkoci50KSArICIuanNvbiIsIEpT
+T04uc3RyaW5naWZ5KHIsIG51bGwsIDIpKTsKfQpjb25zb2xlLmVycm9yKCJPSywgcmVjZXB0ZW4g
+Z2VzY2hyZXZlbjoiLCBkYXRhLmxlbmd0aCk7Cg==
+B64
+            base64 -d seed.b64 > seed.js
+            node seed.js
+            rm -f seed.b64 seed.js
+            echo "Aantal bestanden: $(ls content/recipes | wc -l)"
           fi
       - name: Recepten bundelen
         run: |
