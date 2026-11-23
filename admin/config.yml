@@ -1,0 +1,43 @@
+backend:
+  name: github
+  repo: franshals35/franshals35.github.io
+  base_url: https://recepten-cms-inlog.henk-wensink.workers.dev
+  auth_endpoint: auth
+site_url: https://franshals35.github.io
+media_folder: assets
+public_folder: /assets
+collections:
+  - name: recipes
+    label: Recepten
+    label_singular: Recept
+    folder: content/recipes
+    format: json
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Titel, name: t, widget: string }
+      - { label: Soort, name: c, widget: select, options: [maaltijd, gebak], default: maaltijd }
+      - label: "Categorieën (alleen maaltijden)"
+        name: g
+        widget: list
+        required: false
+        allow_add: true
+        field: { label: Waarde, name: waarde, widget: select, options: [vega, vlees, vis, salade] }
+      - { label: "Aantal personen", name: b, widget: number, value_type: int, default: 5, required: false }
+      - label: Toelichting
+        name: n
+        widget: list
+        required: false
+        field: { label: Regel, name: regel, widget: string }
+      - label: Ingrediënten
+        name: i
+        widget: list
+        fields:
+          - { label: Hoeveelheid, name: amount, widget: number, value_type: float, required: false }
+          - { label: Eenheid, name: unit, widget: select, options: [g, kg, ml, l, el, tl, st, ""], required: false }
+          - { label: Naam, name: name, widget: string }
+          - { label: Opmerking, name: note, widget: string, required: false }
+      - label: Bereiding
+        name: s
+        widget: list
+        field: { label: Stap, name: stap, widget: text }
