@@ -1,7 +1,9 @@
 {
   "t": "Appeltaart",
-  "b": 4,
   "c": "gebak",
+  "g": [],
+  "b": 4,
+  "n": [],
   "i": [
     {
       "amount": 105,
@@ -25,13 +27,13 @@
       "amount": 0.5,
       "unit": "tl",
       "name": "Zout",
-      "note": null
+      "note": ""
     },
     {
       "amount": 330,
       "unit": "g",
       "name": "Bloem",
-      "note": null
+      "note": ""
     },
     {
       "amount": 1,
@@ -61,19 +63,19 @@
       "amount": 60,
       "unit": "g",
       "name": "Paneermeel",
-      "note": null
+      "note": ""
     },
     {
       "amount": 60,
       "unit": "g",
       "name": "Rozijnen",
-      "note": null
+      "note": ""
     },
     {
       "amount": 3,
       "unit": "tl",
       "name": "Kaneel",
-      "note": null
+      "note": ""
     },
     {
       "amount": 2,
@@ -99,8 +101,6 @@
     "Meng de bloem met 110 g suiker en het zout. Snijd de boter in blokjes en kneed samen met 1 ei, het water en de bloem tot een soepel deeg (kan met deeghaken). Verpak het deeg in plasticfolie en laat circa 30 minuten in de koelkast rusten. Rol twee derde van het deeg, op een met bloem bestoven aanrecht, uit tot een ronde lap van 30 centimeter doorsnede. Hou de rest van het deeg apart. Vet de springvorm in en bekleed met het deeg (! rol deeg om deegroller om te transporteren). Het is makkelijk te repareren met restjes deeg. Bestrooi de bodem met paneermeel.",
     "Vulling",
     "Verwarm de oven voor op 180 ºC. Schil de appels, snijd in partjes en verwijder het klokhuis. Snijd de appels in platte plakjes en meng samen met 100 g suiker, rozijnen, kaneelpoeder en custardpoeder. Leg de appel in laagjes over de bodem en druk echt stevig aan.",
-    "Rol de rest van het deeg uit tot een dikte van circa 2 millimeter. Snijd lange repen van circa 1,5 centimeter breed, leg ze kruislings over de taart in een rastervorm. Druk de randen goed aan en bestrijk de bovenkant met het ei dooier-roommengsel. Bak de taart in circa 1 uur goudbruin en gaar. Laat de taart afkoelen."
-  ],
-  "n": [],
-  "g": []
+    "Rol de rest van het deeg uit tot een dikte van circa 2 millimeter. Snijd lange repen van circa 1,5 centimeter breed, leg ze kruislings over de taart in een rastervorm. Druk de randen goed aan en bestrijk de bovenkant met het ei dooier-roommengsel. Bak de taart in circa 1 uur goudbruin en gaar. Laat de taart afkoelen.."
+  ]
 }
