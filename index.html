@@ -477,7 +477,7 @@ function exportWord() {
   const sorted = [...RECIPES].sort((a, b) => order(a) - order(b) || a.t.localeCompare(b.t, 'nl'));
   const recipeHtml = r => {
     const ings = r.i.map(g =>
-      `<li>${g.amount != null ? esc(String(g.amount).replace('.', ',')) + (g.unit ? ' ' + esc(g.unit) : '') + ' ' : ''}${esc(g.name)}${g.note ? ' <em>(' + esc(g.note) + ')</em>' : ''}</li>`
+      `<p class="ing">&bull; ${g.amount != null ? esc(String(g.amount).replace('.', ',')) + (g.unit ? ' ' + esc(g.unit) : '') + ' ' : ''}${esc(g.name)}${g.note ? ' <em>(' + esc(g.note) + ')</em>' : ''}</p>`
     ).join('');
     const steps = r.s.map(line => {
       const t = String(line).trim();
@@ -492,7 +492,6 @@ function exportWord() {
       + steps
       + (r.n && r.n.length ? `<p class="notes"><em>${esc(r.n.filter(x => !/Extracted image/.test(x)).join(' '))}</em></p>` : '');
   };
-  const toc = sorted.map(r => `<li>${esc(r.t)} <span class="tc">(${r.c === 'gebak' ? 'gebak' : 'maaltijd'})</span></li>`).join('');
   const body = sorted.map(recipeHtml).join('');
   const doc = `<!DOCTYPE html><html xmlns:o="urn:schemas-microsoft-com:office:office"><head><meta charset="utf-8"><title>Receptenboek</title>
 <style>
@@ -506,18 +505,11 @@ p { margin: 0 0 2pt; }
 p.meta { color: #666666; font-style: italic; font-size: 7.5pt; }
 p.sub { font-weight: bold; margin: 4pt 0 1pt; }
 p.notes { margin: 3pt 0 0; color: #555555; font-size: 7.5pt; }
-ul { margin: 2pt 0 4pt 0; padding: 0; }
-li { margin: 0 0 1.5pt; list-style-position: inside; }
-p.step { margin: 0 0 3pt; }
-.toc { margin: 2pt 0 4pt 0; padding: 0; }
-.toc li { margin: 0 0 1pt; list-style-position: inside; }
-.tc { color: #666666; font-size: 7.5pt; }
+p.ing { margin: 0 0 1.5pt; }
 p.MsoFooter { text-align: center; font-size: 9pt; color: #666666; margin: 0; }
 </style></head>
 <body lang="NL" class="WordSection1">
 <h1>Receptenboek &ndash; ${esc(RECIPES.length)} recepten</h1>
-<h3>Inhoudsopgave</h3>
-<ol class="toc">${toc}</ol>
 ${body}
 <div style="mso-element:footer" id="f1"><p class="MsoFooter"><span style="mso-field-code: PAGE "></span></p></div>
 </body></html>`;
