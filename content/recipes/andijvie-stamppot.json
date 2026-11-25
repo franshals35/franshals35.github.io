@@ -1,19 +1,25 @@
 {
   "t": "Andijvie Stamppot",
-  "b": 5,
   "c": "maaltijd",
+  "g": [
+    "vlees"
+  ],
+  "b": 5,
+  "n": [
+    "Ook wel StimpStamp, of Foeksandivie genoemd: een zomerstamppot"
+  ],
   "i": [
     {
       "amount": 1300,
       "unit": "g",
       "name": "Aardappels",
-      "note": null
+      "note": ""
     },
     {
       "amount": 400,
       "unit": "g",
       "name": "Andijvie",
-      "note": null
+      "note": ""
     },
     {
       "amount": 100,
@@ -25,35 +31,28 @@
       "amount": null,
       "unit": null,
       "name": "Melk",
-      "note": null
+      "note": ""
     },
     {
       "amount": null,
       "unit": null,
       "name": "Zout",
-      "note": null
+      "note": ""
     },
     {
       "amount": null,
       "unit": null,
       "name": "Peper",
-      "note": null
+      "note": ""
     },
     {
       "amount": null,
       "unit": null,
       "name": "Nootmuskaat",
-      "note": null
+      "note": ""
     }
   ],
   "s": [
     "Kook de aardappels met wat zout gaar in 20 min. Bak de spekjes uit. Snijd de andijvie in reepjes, was hem en laat het goed uitlekken. Stamp de gekookte aardappels tot een puree met de (warme) melk en een beetje vet van de spekjes (of boter). Neem de andijvie en stamp dit (ons voor ons) samen met nootmuskaat en peper door de puree. Laat de andijvie nog iets op laag vuur garen en doe als laatste de spekjes bij de stamppot."
-  ],
-  "n": [
-    "[Extracted image: /home/user/tool-results/ocr/a09b2e3e-0f58-46df-963c-592b1add9a8c/images/001-001-img-0.jpeg]",
-    "Ook wel StimpStamp, of Foeksandivie genoemd: een zomerstamppot"
-  ],
-  "g": [
-    "vlees"
   ]
 }
