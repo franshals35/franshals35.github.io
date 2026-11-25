@@ -9,19 +9,19 @@
       {
         "amount": 5,
         "name": "Vlees",
-        "note": null,
+        "note": "",
         "unit": "st"
       },
       {
         "amount": 500,
         "name": "Groenten",
-        "note": null,
+        "note": "",
         "unit": "g"
       },
       {
         "amount": 600,
         "name": "Aardappels",
-        "note": null,
+        "note": "",
         "unit": "g"
       }
     ],
@@ -29,7 +29,7 @@
       "De traditionele Nederlandse maaltijd"
     ],
     "s": [
-      "Gekookte bieten",
+      "gekookte bieten",
       "boontjes uit diepvries",
       "bloemkool",
       "broccoli",
