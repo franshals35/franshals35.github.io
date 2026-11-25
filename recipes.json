@@ -49,13 +49,13 @@
       {
         "amount": 1300,
         "name": "Aardappels",
-        "note": null,
+        "note": "",
         "unit": "g"
       },
       {
         "amount": 400,
         "name": "Andijvie",
-        "note": null,
+        "note": "",
         "unit": "g"
       },
       {
@@ -67,30 +67,29 @@
       {
         "amount": null,
         "name": "Melk",
-        "note": null,
+        "note": "",
         "unit": null
       },
       {
         "amount": null,
         "name": "Zout",
-        "note": null,
+        "note": "",
         "unit": null
       },
       {
         "amount": null,
         "name": "Peper",
-        "note": null,
+        "note": "",
         "unit": null
       },
       {
         "amount": null,
         "name": "Nootmuskaat",
-        "note": null,
+        "note": "",
         "unit": null
       }
     ],
     "n": [
-      "[Extracted image: /home/user/tool-results/ocr/a09b2e3e-0f58-46df-963c-592b1add9a8c/images/001-001-img-0.jpeg]",
       "Ook wel StimpStamp, of Foeksandivie genoemd: een zomerstamppot"
     ],
     "s": [
