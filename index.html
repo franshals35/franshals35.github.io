@@ -484,20 +484,16 @@ function exportWord() {
       if (!t) return '';
       if (t.startsWith('==')) return `<p class="sub">${esc(t.replace(/^=+\s*|\s*=+$/g, ''))}</p>`;
       if (t.length <= 34 && !/[.!?]$/.test(t) && /^[A-Z0-9]/.test(t)) return `<p class="sub">${esc(t)}</p>`;
-      return `<li>${esc(t)}</li>`;
+      return `<p class="step">${esc(t)}</p>`;
     }).join('');
     return `<h2>${esc(r.t)}</h2>`
       + `<p class="meta">${r.c === 'gebak' ? 'Gebak' : 'Maaltijd'}${r.b ? ' voor ' + r.b + ' personen' : ''}</p>`
       + `<ul>${ings}</ul>`
-      + `<ol>${steps}</ol>`
+      + steps
       + (r.n && r.n.length ? `<p class="notes"><em>${esc(r.n.filter(x => !/Extracted image/.test(x)).join(' '))}</em></p>` : '');
   };
   const toc = sorted.map(r => `<li>${esc(r.t)} <span class="tc">(${r.c === 'gebak' ? 'gebak' : 'maaltijd'})</span></li>`).join('');
-  const cells = sorted.map(r => `<td valign="top">${recipeHtml(r)}</td>`);
-  let rowsHtml = '';
-  for (let i = 0; i < cells.length; i += 2) {
-    rowsHtml += `<tr>${cells[i]}${cells[i + 1] || '<td></td>'}</tr>`;
-  }
+  const body = sorted.map(recipeHtml).join('');
   const doc = `<!DOCTYPE html><html xmlns:o="urn:schemas-microsoft-com:office:office"><head><meta charset="utf-8"><title>Receptenboek</title>
 <style>
 @page WordSection1 { size: 21cm 29.7cm; margin: 1.25cm 1.5cm 1.25cm 1.5cm; mso-footer: f1; mso-footer-margin: 0.75cm; }
@@ -509,17 +505,16 @@ p { margin: 0 0 2pt; }
 p.meta { color: #666666; font-style: italic; }
 p.sub { font-weight: bold; margin: 4pt 0 1pt; }
 p.notes { margin: 3pt 0 0; color: #555555; font-size: 8.5pt; }
-ul, ol { margin: 2pt 0 4pt 14pt; padding: 0; }
-li { margin: 0 0 1pt; }
-table.cols { width: 100%; border-collapse: collapse; }
-table.cols td { width: 50%; vertical-align: top; padding: 0 7pt 10pt 7pt; }
+ul { margin: 2pt 0 4pt 0; padding: 0; }
+li { margin: 0 0 1pt; list-style-position: inside; }
+p.step { margin: 0 0 3pt; }
 p.MsoFooter { text-align: center; font-size: 9pt; color: #666666; margin: 0; }
 </style></head>
 <body lang="NL" class="WordSection1">
 <h1>Receptenboek &ndash; ${esc(RECIPES.length)} recepten</h1>
 <h3>Inhoudsopgave</h3>
 <ol class="toc">${toc}</ol>
-<table class="cols">${rowsHtml}</table>
+${body}
 <div style="mso-element:footer" id="f1"><p class="MsoFooter"><span style="mso-field-code: PAGE "></span></p></div>
 </body></html>`;
   const blob = new Blob(['\ufeff' + doc], { type: 'application/msword' });
