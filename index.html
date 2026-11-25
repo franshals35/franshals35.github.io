@@ -476,9 +476,12 @@ function exportWord() {
   const order = r => (r.c === 'gebak' ? 1 : 0);
   const sorted = [...RECIPES].sort((a, b) => order(a) - order(b) || a.t.localeCompare(b.t, 'nl'));
   const recipeHtml = r => {
-    const ings = r.i.map(g =>
-      `<p class="ing">&bull; ${g.amount != null ? esc(String(g.amount).replace('.', ',')) + (g.unit ? ' ' + esc(g.unit) : '') + ' ' : ''}${esc(g.name)}${g.note ? ' <em>(' + esc(g.note) + ')</em>' : ''}</p>`
-    ).join('');
+    const ings = r.i.map(g => {
+      const amt = g.amount != null ? esc(String(g.amount).replace('.', ',')) : '-';
+      const unit = g.unit ? esc(g.unit) + ' ' : '';
+      const rest = esc(g.name) + (g.note ? ' ' + esc(g.note) : '');
+      return `<p class="ing" style="tab-stops:right 36.0pt left 40.0pt">&bull;<span style="mso-tab-count:1"></span>${amt}<span style="mso-tab-count:1"></span>${unit}${rest}</p>`;
+    }).join('');
     const steps = r.s.map(line => {
       const t = String(line).trim();
       if (!t) return '';
