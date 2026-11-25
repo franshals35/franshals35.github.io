@@ -473,26 +473,55 @@ fetch('./recipes.json').then(r => r.ok ? r.json() : null).then(data => {
 // ---- exportfuncties ----
 function exportWord() {
   const esc = s => String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-  let body = '';
-  for (const r of RECIPES) {
+  const order = r => (r.c === 'gebak' ? 1 : 0);
+  const sorted = [...RECIPES].sort((a, b) => order(a) - order(b) || a.t.localeCompare(b.t, 'nl'));
+  const recipeHtml = r => {
     const ings = r.i.map(g =>
       `<li>${g.amount != null ? esc(String(g.amount).replace('.', ',')) + (g.unit ? ' ' + esc(g.unit) : '') + ' ' : ''}${esc(g.name)}${g.note ? ' <em>(' + esc(g.note) + ')</em>' : ''}</li>`
     ).join('');
     const steps = r.s.map(line => {
       const t = String(line).trim();
       if (!t) return '';
-      if (t.startsWith('==')) return `<h4>${esc(t.replace(/^=+\s*|\s*=+$/g, ''))}</h4>`;
-      if (t.length <= 34 && !/[.!?]$/.test(t) && /^[A-Z0-9]/.test(t)) return `<h4>${esc(t)}</h4>`;
+      if (t.startsWith('==')) return `<p class="sub">${esc(t.replace(/^=+\s*|\s*=+$/g, ''))}</p>`;
+      if (t.length <= 34 && !/[.!?]$/.test(t) && /^[A-Z0-9]/.test(t)) return `<p class="sub">${esc(t)}</p>`;
       return `<li>${esc(t)}</li>`;
     }).join('');
-    body += `<h2>${esc(r.t)}</h2>`
+    return `<h2>${esc(r.t)}</h2>`
       + `<p class="meta">${r.c === 'gebak' ? 'Gebak' : 'Maaltijd'}${r.b ? ' voor ' + r.b + ' personen' : ''}</p>`
-      + `<h3>Ingredi&euml;nten</h3><ul>${ings}</ul>`
-      + `<h3>Bereiding</h3><ol>${steps}</ol>`
-      + (r.n && r.n.length ? `<p><em>${esc(r.n.filter(x => !/Extracted image/.test(x)).join(' '))}</em></p>` : '')
-      + '<hr>';
+      + `<ul>${ings}</ul>`
+      + `<ol>${steps}</ol>`
+      + (r.n && r.n.length ? `<p class="notes"><em>${esc(r.n.filter(x => !/Extracted image/.test(x)).join(' '))}</em></p>` : '');
+  };
+  const toc = sorted.map(r => `<li>${esc(r.t)} <span class="tc">(${r.c === 'gebak' ? 'gebak' : 'maaltijd'})</span></li>`).join('');
+  const cells = sorted.map(r => `<td valign="top">${recipeHtml(r)}</td>`);
+  let rowsHtml = '';
+  for (let i = 0; i < cells.length; i += 2) {
+    rowsHtml += `<tr>${cells[i]}${cells[i + 1] || '<td></td>'}</tr>`;
   }
-  const doc = `<!DOCTYPE html><html xmlns:o="urn:schemas-microsoft-com:office:office"><head><meta charset="utf-8"><title>Receptenboek</title><style>body{font-family:Georgia,serif}h1{font-size:20pt}h2{font-size:14pt;margin:20pt 0 2pt}h3{font-size:11pt;margin:10pt 0 2pt}h4{font-size:10pt;margin:8pt 0 2pt}p.meta{color:#666;margin:0 0 6pt}hr{border:0;border-top:1px solid #ccc;margin:16pt 0}</style></head><body><h1>Receptenboek &ndash; ${esc(RECIPES.length)} recepten</h1>${body}</body></html>`;
+  const doc = `<!DOCTYPE html><html xmlns:o="urn:schemas-microsoft-com:office:office"><head><meta charset="utf-8"><title>Receptenboek</title>
+<style>
+@page WordSection1 { size: 21cm 29.7cm; margin: 1.25cm 1.5cm 1.25cm 1.5cm; mso-footer: f1; mso-footer-margin: 0.75cm; }
+div.WordSection1 { page: WordSection1; }
+body { font-family: Georgia, serif; font-size: 9pt; margin: 0; }
+h1 { font-size: 16pt; margin: 0 0 6pt; }
+h2 { font-size: 11.5pt; margin: 10pt 0 1pt; }
+p { margin: 0 0 2pt; }
+p.meta { color: #666666; font-style: italic; }
+p.sub { font-weight: bold; margin: 4pt 0 1pt; }
+p.notes { margin: 3pt 0 0; color: #555555; font-size: 8.5pt; }
+ul, ol { margin: 2pt 0 4pt 14pt; padding: 0; }
+li { margin: 0 0 1pt; }
+table.cols { width: 100%; border-collapse: collapse; }
+table.cols td { width: 50%; vertical-align: top; padding: 0 7pt 10pt 7pt; }
+p.MsoFooter { text-align: center; font-size: 9pt; color: #666666; margin: 0; }
+</style></head>
+<body lang="NL" class="WordSection1">
+<h1>Receptenboek &ndash; ${esc(RECIPES.length)} recepten</h1>
+<h3>Inhoudsopgave</h3>
+<ol class="toc">${toc}</ol>
+<table class="cols">${rowsHtml}</table>
+<div style="mso-element:footer" id="f1"><p class="MsoFooter"><span style="mso-field-code: PAGE "></span></p></div>
+</body></html>`;
   const blob = new Blob(['\ufeff' + doc], { type: 'application/msword' });
   const a = document.createElement('a');
   a.href = URL.createObjectURL(blob);
