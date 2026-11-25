@@ -1,40 +1,40 @@
 {
   "t": "AGV",
-  "b": 5,
   "c": "maaltijd",
+  "g": [
+    "vlees"
+  ],
+  "b": 5,
+  "n": [
+    "De traditionele Nederlandse maaltijd"
+  ],
   "i": [
     {
       "amount": 5,
       "unit": "st",
       "name": "Vlees",
-      "note": null
+      "note": ""
     },
     {
       "amount": 500,
       "unit": "g",
       "name": "Groenten",
-      "note": null
+      "note": ""
     },
     {
       "amount": 600,
       "unit": "g",
       "name": "Aardappels",
-      "note": null
+      "note": ""
     }
   ],
   "s": [
-    "Gekookte bieten",
+    "gekookte bieten",
     "boontjes uit diepvries",
     "bloemkool",
     "broccoli",
     "groente wokken zoals chinese kool",
     "bruine bonen",
     "spruitjes uit de oven"
-  ],
-  "n": [
-    "De traditionele Nederlandse maaltijd"
-  ],
-  "g": [
-    "vlees"
   ]
 }
